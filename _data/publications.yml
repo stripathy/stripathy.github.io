@@ -60,7 +60,7 @@
 - title: >
     Neurodata Without Borders: Creating a Common Data Format for Neurophysiology.
   author: >
-    Teeters JL, ...<u>Tripathy SJ</u, ... Svoboda K, Sommer FT. <I>Neuron</I>.
+    Teeters JL, ...<u>Tripathy SJ</u>, ... Svoboda K, Sommer FT. <I>Neuron</I>.
   image: ../images/nwb.png
   year: 2015
   repo:

@@ -1,0 +1,10 @@
+---
+- name: Taufik Valiante
+  role: Principal Investigator
+  program: Krembil Research Institute
+  photo: "/images/people/taufik.png"
+  
+- name: Homeira Moradi
+  role: Postdoctoral Fellow
+  program: Lab of Taufik Valiante
+  photo: "/images/people/homeira.jpg"
