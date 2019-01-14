@@ -1,22 +1,10 @@
 ---
 - name: Taufik Valiante
   role: Principal Investigator
-  program: co-advised by Raymond Ng
-  photo: "/images/Halldor.jpeg"
-  lnp: Data Science for Social Good Fellow at UBC
+  program: Krembil Research Institute
+  photo: "/images/taufik.png"
   
 - name: Homeira Moradi
   role: Postdoctoral Fellow
-  program: co-advised by Raymond Ng
-  photo: "/images/Louie.jpg"
-  lnp: Data scientist at Flipboard
-  
-- name: Hamid Omid
-  role: Postdoctoral Fellow
-  photo: "/images/hamid.png"
-  lnp: Tech Startup
-  
-- name: Farnush Farhadi
-  role: MSc Student - Bioinformatics
-  photo: "/images/Farnush.png"
-  lnp: Data Scientist at SickKids
+  program: Lab of Taufik Valiante
+  photo: "/images/homeira.jpg"
