@@ -1,12 +1,12 @@
 ---
-- name: Halldor Thorhallsson
-  role: MSc Student - Comp Sci
+- name: Taufik Valiante
+  role: Principal Investigator
   program: co-advised by Raymond Ng
   photo: "/images/Halldor.jpeg"
   lnp: Data Science for Social Good Fellow at UBC
   
-- name: Louie Dinh
-  role: MSc Student - Comp Sci
+- name: Homeira Moradi
+  role: Postdoctoral Fellow
   program: co-advised by Raymond Ng
   photo: "/images/Louie.jpg"
   lnp: Data scientist at Flipboard
