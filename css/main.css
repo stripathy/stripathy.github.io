@@ -7,11 +7,11 @@ body {
 }
 
 .jumbotron {
-   background: #000 url('../images/multiscale_image.png');
+   background-image: #000 url('../images/multiscale_image.png');
    width: 100%;
    height: 100%;
    background-size: cover;
-   background: #A666EA;  
+   /*background: #A666EA;  */
    text-align: center;
    /*background: rgba(200, 54, 54, 0.6); */
 }
