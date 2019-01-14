@@ -4,7 +4,7 @@
     Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in five cohorts of schizophrenia and bipolar subjects
   author: >
     Toker L, Mancarci BO, <u>Tripathy SJ</u>, Pavlidis P. <I>Biological Psychiatry</I>.
-  image: ../images/AD.jpeg
+  image: ../images/biol_psych.jpeg
   year: 2018
   repo:
     name: PubMed
@@ -12,49 +12,49 @@
 
 
 - title: >
-    Integration of genomics and metabolomics for prioritization of rare disease variants: a 2018 literature review
+    Assessing transcriptome quality in patch-seq datasets.
   author: >
-    <u>Graham E</u>, ...,Van Karnebeek CBD*, <u> Mostafavi S*</u>. <I>Journal of Inherited Metabolic Disease</I>.
-  image: ../images/IEMs.jpeg
+    <u>Tripathy SJ</u>, Toker L, Bomkamp C, Mancarci O, Belmadani M, Pavlidis P. <I>Frontiers in Cellular Neuroscience</I>.
+  image: ../images/patch_seq_qc.jpeg
   year: 2018
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29721916
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30349457
 
 
 
 - title: >
-    An xQTL map integrates the genetic architecture of the human brain's transcriptome and epigenome.
+    Modeling sources of inter-laboratory variability in electrophysiological properties of mammalian neurons.
   author: >
-    <u>Ng B</u>, White C, Klein HU, ...,<u> Mostafavi S*</u>, De Jager P*. <I>Nature Neuroscience</I>.
-  image: ../images/xQTL.png
+    Tebaykin D*, <u>Tripathy SJ*</u>, Binnion B, Li B, Gerkin RC, Pavlidis P. <I>Journal of Neurophysiology</I>.
+  image: ../images/dmitry_paper_schematic.png
   year: 2017
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/28869584
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29357465
 
 
 
 - title: >
-    Allele-specific expression reveals interactions between genetic variation and environment
+    Cross-laboratory analysis of brain cell type specific transcriptomes with applications to bulk tissue data. 
   author: >
-    Knowles D,Davis JR, Edgington H, ...,<u> Mostafavi S</u>, Montgomery SB*, Battle AJ*. <I>Nature Methods</I>.
-  image: ../images/EAGLE.png
+    Mancarci BO, Toker L, <u>Tripathy SJ</u>, Li B, Rocco B, Sibille E, Pavlidis P. <I>eNeuro</I>.
+  image: ../images/neuroexpresso_schematic.png
   year: 2017
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/28530654
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29204516
 
 
 - title: >
-    Network pharmacology of Jak inhibitors
+    Transcriptomic correlates of neuron electrophysiological diversity. 
   author: >
-    Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. <I>PNAS</I>.
-  image: ../images/jakpaper.png
-  year: 2016
+    <u>Tripathy SJ</u>, Toker L, Li B, Crichlow CL, Tebaykin D, Mancarci O, Pavlidis P. <I>PLoS Computational Biology</I>.
+  image: ../images/brainmash_schematic.png
+  year: 2017
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27516546
+    url: http://www.ncbi.nlm.nih.gov/pubmed/29069078
 
 
 - title: >
