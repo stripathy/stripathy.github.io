@@ -1,209 +1,109 @@
 ---
 
 - title: >
-    A molecular network of the aging human brain provides insights into the pathology and cognitive decline of Alzheimer’s disease
+    Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in five cohorts of schizophrenia and bipolar subjects
   author: >
-    <u>Mostafavi S*</u>, Gaiteri C*, ..., Bennett D*, De Jager P*. <I>Nature Neuroscience</I>.
-  image: ../images/AD.jpeg
+    Toker L, Mancarci BO, <u>Tripathy SJ</u>, Pavlidis P. <I>Biological Psychiatry</I>.
+  image: ../images/biol_psych.jpeg
   year: 2018
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29802388
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30177255
 
 
 - title: >
-    Integration of genomics and metabolomics for prioritization of rare disease variants: a 2018 literature review
+    Assessing transcriptome quality in patch-seq datasets.
   author: >
-    <u>Graham E</u>, ...,Van Karnebeek CBD*, <u> Mostafavi S*</u>. <I>Journal of Inherited Metabolic Disease</I>.
-  image: ../images/IEMs.jpeg
+    <u>Tripathy SJ</u>, Toker L, Bomkamp C, Mancarci O, Belmadani M, Pavlidis P. <I>Frontiers in Cellular Neuroscience</I>.
+  image: ../images/patch_seq_qc.jpeg
   year: 2018
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29721916
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30349457
 
 
 
 - title: >
-    An xQTL map integrates the genetic architecture of the human brain's transcriptome and epigenome.
+    Modeling sources of inter-laboratory variability in electrophysiological properties of mammalian neurons.
   author: >
-    <u>Ng B</u>, White C, Klein HU, ...,<u> Mostafavi S*</u>, De Jager P*. <I>Nature Neuroscience</I>.
-  image: ../images/xQTL.png
+    Tebaykin D*, <u>Tripathy SJ*</u>, Binnion B, Li B, Gerkin RC, Pavlidis P. <I>Journal of Neurophysiology</I>.
+  image: ../images/dmitry_paper_schematic.png
   year: 2017
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/28869584
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29357465
 
 
 
 - title: >
-    Allele-specific expression reveals interactions between genetic variation and environment
+    Cross-laboratory analysis of brain cell type specific transcriptomes with applications to bulk tissue data. 
   author: >
-    Knowles D,Davis JR, Edgington H, ...,<u> Mostafavi S</u>, Montgomery SB*, Battle AJ*. <I>Nature Methods</I>.
-  image: ../images/EAGLE.png
+    Mancarci BO, Toker L, <u>Tripathy SJ</u>, Li B, Rocco B, Sibille E, Pavlidis P. <I>eNeuro</I>.
+  image: ../images/neuroexpresso_schematic.png
   year: 2017
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/28530654
+    url: https://www.ncbi.nlm.nih.gov/pubmed/29204516
 
 
 - title: >
-    Network pharmacology of Jak inhibitors
+    Transcriptomic correlates of neuron electrophysiological diversity. 
   author: >
-    Moodley D, Yoshida H,<u> Mostafavi S</u>, ..., Mathis D, Benoist C. <I>PNAS</I>.
-  image: ../images/jakpaper.png
-  year: 2016
+    <u>Tripathy SJ</u>, Toker L, Li B, Crichlow CL, Tebaykin D, Mancarci O, Pavlidis P. <I>PLoS Computational Biology</I>.
+  image: ../images/brainmash_schematic.png
+  year: 2017
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27516546
+    url: http://www.ncbi.nlm.nih.gov/pubmed/29069078
 
 
 - title: >
-    Genetic variants in Alzheimer disease - molecular and brain network approaches
+    Neurodata Without Borders: Creating a Common Data Format for Neurophysiology.
   author: >
-    Gaiteri C,<u> Mostafavi S</u>, Honey CJ, De Jager PL, Bennett DA. <I>Nature Review Neurology</I>.
-  image: ../images/NNR.png
-  year: 2016
+    Teeters JL, ...<u>Tripathy SJ</u, ... Svoboda K, Sommer FT. <I>Neuron</I>.
+  image: ../images/nwb.png
+  year: 2015
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27197214
+    url: http://www.ncbi.nlm.nih.gov/pubmed/26590340
 
 - title: >
-    Inhalation of diesel exhaust and allergen alters human bronchial epithelium DNA methylation
+    Agile text mining with Sherlok.
   author: >
-    Clifford RL, Jones MJ, Maclsaac JL, McEwan LM, Goodman SJ,<u> Mostafavi S</u>, Kobor MS, Carlsten C. <I>Journal of Allergy & Clinical Immunology </I>.
-  image: ../images/asthma.png
-  year: 2016
+    Richardet R, JC Chappelier, <u>Tripathy SJ</u>, Hill S. <I>IEEE Big Data </I>.
+  image: ../images/sherlok.png
+  year: 2015
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/27321436
 
 
 - title: >
-    Impact of the X Chromosome and sex on regulatory variation
+    Brain-wide analysis of electrophysiological diversity yields novel categorization of mammalian neuron types.
   author: >
-    Kukurba K, Parsana P, ..., <u> Mostafavi S</u>, Battle A*, Montgomery SB*.  <I>Genome Research </I>.
-  image: ../images/sexspec.png
-  year: 2016
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/27197214
-
-- title: >
-    Parsing the interferon transcriptional network and its disease associations
-  author: >
-    <u>Mostafavi S*</u>, Yoshida H*, Moodley D, ..., Mathis D, Benoist C, and the ImmGen Consortium.  <I>Cell </I>.
-  image: ../images/IFN_1.png
-  year: 2016
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/26824662
-
-- title: >
-    Sharing and Specificity of Co-expression Networks across 35 Human Tissues
-  author: >
-    Pierson E, the GTEx Consortium, Koller D, Battle A*, <u>Mostafavi S*</u>.  <I>PLOS Computational Biology </I>.
-  image: ../images/plos_comp_bio_fig.png
+    <u>Tripathy SJ</u>, Burton SD, Geramita M, Gerkin RC, Urban NN. <I>Journal of Neurophysiology</I>.
+  image: ../images/neuroelectro_j_neurophys.png
   year: 2015
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/25970446
+    url: http://www.ncbi.nlm.nih.gov/pubmed/25810482 
 
 - title: >
-    Polarization of the effects of autoimmune and neurodegenerative risk alleles in leukocytes
+    NeuroElectro: a window to the world’s neuron electrophysiology data.
   author: >
-    Raj T, Rothamel K, <u>Mostafavi S</u>,..., Benoist C*, Stranger BE*, De Jager PL*.  <I>Science </I>.
-  image: ../images/immvar.png
+    <u>Tripathy SJ</u>, Savitskaya J, Burton SD, Urban NN, Gerkin RC. <I>Frontiers in Neuroinformatics </I>.
+  image: ../images/neuroelectro_frontiers.png
   year: 2014
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/24786080
+    url: http://www.ncbi.nlm.nih.gov/pubmed/24808858
 
 - title: >
-    Characterizing the genetic basis of transcriptome diversity through RNA-sequencing of 922 individuals
+    Intermediate intrinsic diversity enhances neural population coding. 
   author: >
-    Battle A, <u>Mostafavi S</u>, Zhu X,..., Koller D.  <I>Genome Research </I>.
-  image: ../images/GRpaper.png
-  year: 2014
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/24092820
-    
-- title: >
-    Normalizing RNA-sequencing data by modeling hidden covariates with prior knowledge
-  author: >
-    <u>Mostafavi S</u>, Battle A, Zhu X,..., Koller D.  <I>PLOS ONE </I>.
-  image: ../images/normalization.png
+    <u>Tripathy SJ</u>, Padmanbhan K, Gerkin RC, Urban NN.  <I>PNAS</I>.
+  image: ../images/pnas_schematic.png
   year: 2013
   repo:
     name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/23874524
-
-- title: >
-    Type I interferon signaling genes in recurrent major depression: increased expression detected by whole-blood RNA sequencing
-  author: >
-    <u>Mostafavi S</u>, Battle A, Zhu X,..., Levinson DF. <I>Molecular Psychiatry</I>.
-  image: ../images/ifna_figure_1.png
-  year: 2013
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/242969772
-
-- title: >
-    Using prior biological knowledge when constructing gene regulatory networks
-  author: >
-    <u>Mostafavi S</u>, and Koller, D.  <I>ICML workshop on Machine Learning in Genomics and Genetics </I>.
-  image: ../images/roc_gbm_pred.png
-  year: 2012
-  repo:
-    name: PDF
-    url: http://ai.stanford.edu/~saram/MLGG2012.pdf
-    
-- title: >
-    Labeling nodes using three degrees of propagation
-  author: >
-    <u>Mostafavi S</u>, Goldenberg A, Morris Q.  <I>PLOS ONE </I>.
-  image: ../images/Figure1.png
-  year: 2012
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3532359/
-
-- title: >
-   Predicting node characteristics from molecular networks
-  author: >
-    <u>Mostafavi S</u>, Goldenberg A, Morris Q.  <I>Methods in Molecular Biology </I>.
-  image: ../images/lpa1.png
-  year: 2011
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/21877293  
-  
-- title: >
-    Fast integration of heterogeneous data sources for predicting gene function with limited annotation.
-  author: >
-    <u>Mostafavi S</u> and Morris Q.  <I>Bioinformatics </I>.
-  image: ../images/fig2.png
-  year: 2010
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/20507895
-
-- title: >
-    Using the Gene Ontology hierarchy when predicting gene function
-  author: >
-    <u>Mostafavi S</u> and Morris Q.  <I>Uncertainty in Artificial Intelligence (UAI) </I>.
-  image: ../images/hierarchy_uai.png
-  year: 2009
-  repo:
-    name: PDF
-    url: http://arxiv.org/abs/1205.2622
-
-- title: >
-    GeneMANIA: a real-time multiple association network integration algorithm for predicting gene function
-  author: >
-    <u>Mostafavi S</u>, Ray D, Warde-Farley D, Grouios C, Morris Q.  <I>Genome Biology </I>.
-  image: ../images/genemania.jpg
-  year: 2008
-  repo:
-    name: PubMed
-    url: http://www.ncbi.nlm.nih.gov/pubmed/18613948
+    url: http://www.ncbi.nlm.nih.gov/pubmed/23630284 
