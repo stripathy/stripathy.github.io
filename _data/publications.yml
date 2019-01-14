@@ -1,14 +1,14 @@
 ---
 
 - title: >
-    A molecular network of the aging human brain provides insights into the pathology and cognitive decline of Alzheimer’s disease
+    Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in five cohorts of schizophrenia and bipolar subjects
   author: >
-    <u>Mostafavi S*</u>, Gaiteri C*, ..., Bennett D*, De Jager P*. <I>Nature Neuroscience</I>.
+    Toker L, Mancarci BO, <u>Tripathy SJ</u>, Pavlidis P. <I>Biological Psychiatry</I>.
   image: ../images/AD.jpeg
   year: 2018
   repo:
     name: PubMed
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29802388
+    url: https://www.ncbi.nlm.nih.gov/pubmed/30177255
 
 
 - title: >
