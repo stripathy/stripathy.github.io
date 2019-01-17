@@ -22,7 +22,4 @@ markdown: kramdown
 paginate: 5
 paginate_path: "/news/:num/"
 
-sass:
-  sass_dir: _sass
-
 gems: [jekyll-paginate]
