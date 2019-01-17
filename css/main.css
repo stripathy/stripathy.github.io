@@ -35,10 +35,9 @@ body {
     display: block;
 }
 
-.vcenter {
-   display: inline-block;
-   vertical-align: middle;
-   float: none;
+.vertical-align {
+    display: flex;
+    align-items: center;
 }
 
 .jumbotron h2 {
