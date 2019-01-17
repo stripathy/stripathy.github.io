@@ -29,6 +29,12 @@ body {
   /*font-weight: bold;*/
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 .jumbotron h2 {
   /*background-image: url("02.jpg");*/
   color: #ffffff;
