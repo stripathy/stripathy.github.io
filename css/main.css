@@ -29,17 +29,6 @@ body {
   /*font-weight: bold;*/
 }
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
-}
-
-.vertical-align {
-    display: flex;
-    flex-direction: row;
-}
-
 .jumbotron h2 {
   /*background-image: url("02.jpg");*/
   color: #ffffff;
