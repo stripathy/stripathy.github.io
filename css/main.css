@@ -53,6 +53,17 @@ h1, h2,h3 {
     display: block;
 }
 
+.customrow {
+    display: table;
+    table-layout: fixed;
+}
+ 
+.customcol {
+    display: table-cell;
+    vertical-align: middle;
+    float: none;
+}
+
 
 footer {
     margin-top: 30px;
