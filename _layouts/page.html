@@ -2,19 +2,15 @@
 layout: default
 ---
 <div class="container">
-
     <div class="row">
-        <div class="col-md-10">
-            <article class="page">
+        <div class="col-md-9">
+            {{ content }}
+        </div>
 
-                <header class="post-header">
-                    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-                </header>
-
-                <div class="post-content" itemprop="articleBody">
-                    {{ content }}
-                </div>
-            </article>
+        <div class="col-md-3">
+            {% include recent-news.html %}
         </div>
     </div>
 </div>
+
+
