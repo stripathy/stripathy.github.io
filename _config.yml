@@ -7,11 +7,11 @@
 
 # Site settings
 title: TripathyLab
-email: stripat3@gmail.com
+email: shreejoy.tripathy@camh.ca
 description: > # this means to ignore newlines until "baseurl:"
   Lab website for the Tripathy Lab at CAMH
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://cubranic.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://triplab.org" # the base hostname & protocol for your site
 twitter_username: neuronJoy
 github_username:  stripathy
 
