@@ -1,6 +1,16 @@
 ---
 
 - title: >
+    Transcriptomic correlates of electrophysiological and morphological diversity within and across neuron types.
+  author: >
+    Bomkamp C*, <u>Tripathy SJ*</u>, Bengtsson Gonzales C, Hjerling-Leffler J, Craig AM, Pavlidis P. <I>bioRxiv Preprint</I>.
+  image: ../images/biol_psych.jpeg
+  year: 2019
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/early/2019/01/18/524561
+
+- title: >
     Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in five cohorts of schizophrenia and bipolar subjects
   author: >
     Toker L, Mancarci BO, <u>Tripathy SJ</u>, Pavlidis P. <I>Biological Psychiatry</I>.
