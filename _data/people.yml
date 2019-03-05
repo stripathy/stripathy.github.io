@@ -2,3 +2,13 @@
 - name: Shreejoy Tripathy
   role: Principal Investigator
   photo: "images/headshot_sept_2017.JPG"
+  
+- name: Jasmine Bell
+  role: Undergraduate Student
+  program: Neuroscience and Cell and Molecular Biology
+  photo: "images/people/jasmine_photo.png"
+
+- name: Allen Hsiao
+  role: Undergraduate Student
+  program: Neuroscience and Physiology / Computer Science minor
+  photo: "images/people/Krembil-Image-left-with-content-Brain-network.jpg"
