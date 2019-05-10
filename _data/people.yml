@@ -12,3 +12,13 @@
   role: Undergraduate Student
   program: Neuroscience and Physiology / Computer Science minor
   photo: "images/people/allen_cropped.jpg"
+  
+- name: Abdul Jamali
+  role: Masters student (internship)
+  program: Bioinformatics at University of Guelph
+  photo: "images/people/abdul_headshot.jpg"
+  
+- name: Emma Hunter
+  role: Undergraduate Student
+  program: Mathematics
+  photo: "images/people/emma_photo_cropped.jpg"
