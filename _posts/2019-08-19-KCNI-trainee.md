@@ -8,4 +8,4 @@ excerpt: >
 
 TripLab trainees, Allen, Emma, and Young, presented their summer research projects to the KCNI at the first annual KCNI Trainee's summit!
 
-![The lab at Chutes and Lattes](/images/people/chutes_and_lattes_2019.jpg "The lab at Chutes and Lattes"){:height="400px"}
+![KCNI trainees and PIs](/images/people/all_hands_kcni_2019.jpg "KCNI trainees and PIs"){:height="500px"}
