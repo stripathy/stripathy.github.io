@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  TripLab has its first social event at Chutes and Lattes!
-date:   2019-06-22
+date:   2019-07-22
 excerpt: >
   TripLab has its first social event at Chutes and Lattes!
 ---
