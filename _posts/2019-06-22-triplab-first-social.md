@@ -7,3 +7,6 @@ excerpt: >
 ---
 
 We had our first lab social event at Chutes and Lattes. We played the game Codenames and had a ton of fun!
+
+![The lab at Chutes and Lattes](/images/people/chutes_and_lattes_2019.jpg "The lab at Chutes and Lattes")
+
