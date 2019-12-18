@@ -45,14 +45,3 @@
   role: Undergraduate Student
   program: Biology
   photo: "images/people/jasmine_photo_cropped_v2.png"
-  
-- name: Abdul Jamali
-  role: Masters student (internship)
-  program: Bioinformatics at University of Guelph
-  photo: "images/people/abdul_headshot.jpg"
-  
-- name: Noah Jacobs
-  role: Undergraduate Student
-  program: Computer science at Queen's University
-  photo: "images/people/kcni_logo.jpg"
-
