@@ -8,13 +8,14 @@
   photo: "images/people/sonny_headshot_cropped.jpg"
   
 - name: Xiao Luo
-  role: Postdoctoral Fellow (shared with Dr. Valiante)
+  role: Postdoctoral Fellow
+  program: Co-advised with Taufik Valiante
   photo: "images/people/kcni_logo.jpg"
   
 - name: Anukrati Nigam
   role: PhD Student
   program: Institute of Medical Sciences
-  photo: "images/people/kcni_logo.jpg"
+  photo: "images/people/received_549680179216203.jpeg"
   
 - name: Allen Hsiao
   role: Undergraduate Student
@@ -29,11 +30,12 @@
 - name: Young Seok Seo
   role: Undergraduate Student
   program: Engineering Science
-  photo: "images/people/kcni_logo.jpg"
+  photo: "images/people/young_headshot.jfif"
   
 - name: Micaela Consens
   role: Undergraduate Student
   program: Computer Science and Bioinformatics
+  other: Co-advised with Dan Felsky
   photo: "images/people/kcni_logo.jpg"
   
 - name: Justin Chee
