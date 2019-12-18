@@ -1,14 +1,24 @@
 ---
 
 - title: >
+    Sag currents are a major contributor to human pyramidal cell intrinsic differences across cortical layers and between individuals.
+  author: >
+    Moradi H, Wang L, Zhang L, Carlen P, <u>Tripathy SJ*</u>, Valiante TA*
+  image: ../images/biol_psych.jpeg
+  year: 2019
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/10.1101/748988v2
+
+- title: >
     Transcriptomic correlates of electrophysiological and morphological diversity within and across neuron types.
   author: >
     Bomkamp C*, <u>Tripathy SJ*</u>, Bengtsson Gonzales C, Hjerling-Leffler J, Craig AM, Pavlidis P. <I>bioRxiv</I>.
   image: ../images/biol_psych.jpeg
   year: 2019
   repo:
-    name: bioRxiv
-    url: https://www.biorxiv.org/content/early/2019/01/18/524561
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pubmed/31211786
 
 - title: >
     Transcriptomic evidence for alterations in astrocytes and parvalbumin interneurons in five cohorts of schizophrenia and bipolar subjects
