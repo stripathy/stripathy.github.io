@@ -27,6 +27,11 @@
   program: Mathematics
   photo: "images/people/emma_photo_cropped.jpg"
   
+- name: Jasmine Bell
+  role: Undergraduate Student
+  program: Biology
+  photo: "images/people/jasmine_photo_cropped_v2.png"
+  
 - name: Young Seok Seo
   role: Undergraduate Student
   program: Engineering Science
@@ -42,8 +47,3 @@
   role: Undergraduate Student
   program: Bioinformatics
   photo: "images/people/kcni_logo.jpg"
-  
-- name: Jasmine Bell
-  role: Undergraduate Student
-  program: Biology
-  photo: "images/people/jasmine_photo_cropped_v2.png"
