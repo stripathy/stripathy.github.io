@@ -8,7 +8,8 @@
   photo: "images/people/sonny_headshot_cropped.jpg"
   
 - name: Xiao Luo
-  role: Postdoctoral Fellow (shared with Dr. Valiante)
+  role: Postdoctoral Fellow
+  other: Co-advised with Taufik Valiante
   photo: "images/people/kcni_logo.jpg"
   
 - name: Anukrati Nigam
@@ -34,6 +35,7 @@
 - name: Micaela Consens
   role: Undergraduate Student
   program: Computer Science and Bioinformatics
+  other: Co-advised with Dan Felsky
   photo: "images/people/kcni_logo.jpg"
   
 - name: Justin Chee
