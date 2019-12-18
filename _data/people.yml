@@ -3,22 +3,49 @@
   role: Principal Investigator
   photo: "images/headshot_sept_2017.JPG"
   
-- name: Jasmine Bell
-  role: Undergraduate Student
-  program: Neuroscience and Cell and Molecular Biology
-  photo: "images/people/jasmine_photo_cropped.jpg"
-
+- name: Sonny (Yuxiao) Chen
+  role: Postdoctoral Fellow
+  
+- name: Xiao Luo
+  role: Postdoctoral Fellow (shared with Dr. Valiante)
+  
+- name: Anukrati Nigam
+  role: PhD Student
+  program: Institute of Medical Sciences
+  
 - name: Allen Hsiao
   role: Undergraduate Student
   program: Neuroscience and Physiology / Computer Science minor
   photo: "images/people/allen_cropped.jpg"
   
+- name: Emma Hunter
+  role: Undergraduate Student
+  program: Mathematics
+  photo: "images/people/emma_photo_cropped.jpg"
+  
+- name: Jasmine Bell
+  role: Undergraduate Student
+  program: Biology
+  photo: "images/people/jasmine_photo_cropped_v2.png"
+  
+- name: Young Seok Seo
+  role: Undergraduate Student
+  program: Engineering Science
+  
+- name: Micaela Consens
+  role: Undergraduate Student
+  program: Computer Science and Bioinformatics
+  
+- name: Justin Chee
+  role: Undergraduate Student
+  program: Bioinformatics
+
 - name: Abdul Jamali
   role: Masters student (internship)
   program: Bioinformatics at University of Guelph
   photo: "images/people/abdul_headshot.jpg"
   
-- name: Emma Hunter
+- name: Noah Jacobs
   role: Undergraduate Student
-  program: Mathematics
-  photo: "images/people/emma_photo_cropped.jpg"
+  program: Computer science at Queen's University  
+
