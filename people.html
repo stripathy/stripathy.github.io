@@ -59,7 +59,9 @@ layout: default
            <p class="person-role">{{ person.name }}
             <br>{{ person.program }}
             <br>{{ person.other }}
-            <br><a href="{{ person.url }}">Lab Website</a></p>
+            {% if person.url %}
+                <br><a href="{{ person.url }}">Lab Website</a></p>
+            {% endif %}
               
             
         
