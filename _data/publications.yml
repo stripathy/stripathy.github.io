@@ -11,9 +11,9 @@
     url: https://www.biorxiv.org/content/10.1101/748988v2
 
 - title: >
-    Transcriptomic correlates of electrophysiological and morphological diversity within and across neuron types.
+    Transcriptomic correlates of electrophysiological and morphological diversity within and across neuron cell types.
   author: >
-    Bomkamp C*, <u>Tripathy SJ*</u>, Bengtsson Gonzales C, Hjerling-Leffler J, Craig AM, Pavlidis P. <I>bioRxiv</I>.
+    Bomkamp C*, <u>Tripathy SJ*</u>, Bengtsson Gonzales C, Hjerling-Leffler J, Craig AM, Pavlidis P. <I>PLoS Computational Biology</I>.
   image: ../images/biol_psych.jpeg
   year: 2019
   repo:
