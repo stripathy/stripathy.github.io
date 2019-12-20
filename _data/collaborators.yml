@@ -1,6 +1,5 @@
 ---
 - name: Taufik Valiante
-  role: Principal Investigator
   program: Krembil Research Institute
   photo: "/images/people/taufik.jpg"
   
@@ -8,3 +7,18 @@
   role: Scientific Associate
   program: Lab of Taufik Valiante
   photo: "/images/people/homeira.jpg"
+  
+- name: Amy Ramsey
+  program: University of Toronto
+  other: Pharmacology and Toxicology
+  photo: "/images/people/amy_ramsey_headshot.jpg"
+  
+- name: Julio Martinez-Trujillo
+  program: University of Western Ontario
+  other: Robarts Research Institute
+  photo: "/images/people/julio_newpic2.jpg"
+  
+- name: Wataru Inoue
+  program: University of Western Ontario
+  other: Robarts Research Institute
+  photo: "/images/people/wataru_pic2.jpg"
