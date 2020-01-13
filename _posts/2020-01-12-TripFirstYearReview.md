@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  TripLab 2019 Year in Review
-date:   2019-08-19
+date:   2020-01-12
 excerpt: >
   Shreejoy looks back on the up's and down's from the first year of TripLab
 ---
