@@ -25,11 +25,13 @@
 - name: Isabel Kerrebijn
   role: MSc Student
   program: Institute of Medical Sciences
+  photo: "images/people/kcni_logo.jpg"
   
 - name: Jordan Sicherman
-  role: Intern, MSc Student
+  role: MSc Student Intern
   program: UBC Bioinformatics
   other: Co-advised with Etienne Sibille
+  photo: "images/people/kcni_logo.jpg"
   
 - name: Allen Hsiao
   role: Undergraduate Student
