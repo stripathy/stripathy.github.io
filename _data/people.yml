@@ -22,6 +22,10 @@
   program: Co-advised with Sean Hill
   photo: "images/people/received_549680179216203.jpeg"
   
+- name: Isabel Kerrebijn
+  role: MSc Student
+  program: Institute of Medical Sciences
+  
 - name: Allen Hsiao
   role: Undergraduate Student
   program: Neuroscience and Physiology
@@ -32,16 +36,16 @@
   program: Mathematics
   photo: "images/people/emma_photo_cropped.jpg"
   
-- name: Young Seok Seo
-  role: Undergraduate Student
-  program: Engineering Science
-  photo: "images/people/young_headshot.jfif"
-  
 - name: Micaela Consens
   role: Undergraduate Student
   program: Computer Science and Bioinformatics
   other: Co-advised with Dan Felsky
   photo: "images/people/micaela_headshot.jfif"
+  
+- name: Young Seok Seo
+  role: Undergraduate Student
+  program: Engineering Science
+  photo: "images/people/young_headshot.jfif"
   
 - name: Noah Jacobs
   role: Undergraduate Student
