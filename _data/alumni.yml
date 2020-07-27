@@ -3,8 +3,13 @@
   role: Masters student (internship)
   program: Bioinformatics at University of Guelph
   photo: "images/people/abdul_headshot.jpg"
-  
-- name: Noah Jacobs
+
+- name: Justin Chee
   role: Undergraduate Student
-  program: Computer science at Queen's University
-  photo: "images/people/noah_headshot.jpg"
+  program: Bioinformatics
+  photo: "images/people/kcni_logo.jpg"
+  
+- name: Jasmine Bell
+  role: Undergraduate Student
+  program: Biology
+  photo: "images/people/jasmine_photo_cropped_v2.png"
