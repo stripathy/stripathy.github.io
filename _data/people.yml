@@ -20,7 +20,7 @@
   role: PhD Student
   program: Institute of Medical Sciences
   program: Co-advised with Sean Hill
-  photo: "images/people/received_549680179216203.jpeg"
+  photo: "images/people/Anukrati_Nigam_2020.png"
   
 - name: Isabel Kerrebijn
   role: MSc Student
@@ -43,17 +43,17 @@
   other: Co-advised with Dan Felsky
   photo: "images/people/micaela_headshot.jfif"
   
-- name: Young Seok Seo
+- name: Jessie Lam
   role: Undergraduate Student
-  program: Engineering Science
-  photo: "images/people/young_headshot.jfif"
+  program: Computer Science and Bioinformatics
+  photo: "images/people/jessie_headshot.jpg"
+  
+- name: Kara Han
+  role: Undergraduate Student
+  program: Bioinformatics and Molecular Genetics
+  photo: "images/people/kcni_logo.jpg"
   
 - name: Maggie Vuong
   role: Undergraduate Student
   program: Mechanical Engineering
   photo: "images/people/maggie_headshot.jpeg"
-  
-- name: Noah Jacobs
-  role: Undergraduate Student
-  program: Computer science at Queen's University
-  photo: "images/people/noah_headshot.jpg"
