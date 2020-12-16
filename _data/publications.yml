@@ -1,6 +1,53 @@
 ---
 
 - title: >
+    Patch-seq: Past, Present, and Future Advances. 
+  author: >
+    Lipovsek M, Bardy C, Cadwell CR, Hadley K, Kobak D, <u>Tripathy SJ</u>
+  image: ../images/biol_psych.jpeg
+  year: 2021 (in press at J Neuro)
+
+- title: >
+    Consequences of NMDA receptor deficiency can be rescued in the adult brain. 
+  author: >
+    Mielnik C, Binko M, <u>Chen Y</u>, Funk A, Johannsson E, Katheron I, Sivananthan N, Islam R, Milenkovic M, Horsfall W, Ross R, Groc L, Salahpour A, McCullumsmith M, <u>Tripathy SJ</u>, Lambe E, Ramsey AJ. 
+  image: ../images/biol_psych.jpeg
+  year: 2020
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/32807843/
+
+- title: >
+    Assessing the molecular overlap between human major depressive disorder and three mouse models of chronic stress.
+  author: >
+    <u>Tripathy SJ</u>
+  image: ../images/biol_psych.jpeg
+  year: 2020
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/32616203/
+
+- title: >
+    Single nucleus RNA sequencing implicates OPCs and deep layer excitatory neurons in the pathophysiology of major depression.
+  author: >
+    Nagy C, Maitra M, Tanti A, Suderman M, Theroux JF, Davoli MA, Perlman K, Yerko V, <u>Tripathy SJ</u>, Pavlidis P, Mechawar N, Ragoussis J, Turecki G
+  image: ../images/biol_psych.jpeg
+  year: 2020
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/32341540
+
+- title: >
+    The Neuron Phenotype Ontology: A FAIR Approach to Proposing and Classifying Neuronal Types.
+  author: >
+    Gillespie TH, <u>Tripathy SJ</u>, Sy MF, Martone ME, Hill SL
+  image: ../images/biol_psych.jpeg
+  year: 2020
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/10.1101/2020.09.01.278879v1.abstract
+
+- title: >
     Sag currents are a major contributor to human pyramidal cell intrinsic differences across cortical layers and between individuals.
   author: >
     Moradi H, Wang L, Zhang L, Carlen P, <u>Tripathy SJ*</u>, Valiante TA*
