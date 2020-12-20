@@ -27,6 +27,17 @@
   program: Institute of Medical Sciences
   photo: "images/people/isabel_headshot.jpg"
   
+- name: Ethan Kim
+  role: MSc Student
+  program: Institute of Medical Sciences
+  other: Co-advised with Leon French
+  photo: "images/people/kim-ethan.png"
+  
+- name: Alex Hoggarth
+  role: MD Student
+  program: McMaster University
+  photo: "images/people/alex_hoggarth_headshot.jpeg"
+  
 - name: Allen Hsiao
   role: Undergraduate Student
   program: Neuroscience and Physiology
@@ -57,3 +68,8 @@
   role: Undergraduate Student
   program: Mechanical Engineering
   photo: "images/people/maggie_headshot.jpeg"
+  
+- name: Rayan Alim
+  role: Undergraduate Student
+  program: Computer Science
+  photo: "images/people/kcni_logo.jpg"
