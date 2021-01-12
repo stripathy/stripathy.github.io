@@ -1,11 +1,14 @@
 ---
 
 - title: >
-    Patch-seq: Past, Present, and Future Advances. 
+    Patch-seq: Past, Present, and Future. 
   author: >
     Lipovsek M, Bardy C, Cadwell CR, Hadley K, Kobak D, <u>Tripathy SJ</u>
   image: ../images/biol_psych.jpeg
   year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/33431632/
 
 - title: >
     Consequences of NMDA receptor deficiency can be rescued in the adult brain. 
