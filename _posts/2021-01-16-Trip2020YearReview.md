@@ -38,7 +38,7 @@ What’s helped most over the last year is learning to rely on the talents and s
 
 I don’t get to code as much these days as I’d like (about once a week, if I’m lucky). But being pretty good at R and ok at Python has been critical in helping me quickly help students debug code or throwing myself into a preliminary analysis of a dataset to quickly assess the feasibility of a project. Though I’m quickly losing my title of best coder and data analyst in the lab, I’m mostly ok with that.
 
-## Looking forward:
+## Looking forward
 
 The biggest unknown for 2021 for our lab is what the “return to normal” following the pandemic will look like. Will we all go back to our physical space 100%? Will we keep working from home? Will it be a mix? 
 
