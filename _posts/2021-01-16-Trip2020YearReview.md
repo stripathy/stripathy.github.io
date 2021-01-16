@@ -6,7 +6,7 @@ excerpt: >
   Shreejoy reviews TripLab's progress over the tumultuous 2020
 ---
 
-# TripLab 2020 Year in Review
+# A look back at Shreejoy's second year running TripLab
 
 2020 was quite a year for our lab. Moving to working 100% remotely. The lab tripling in size. Getting multiple grants (and plenty of rejections). Initiating exciting collaborations. Training the leaders of tomorrow. 
 
