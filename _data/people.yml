@@ -3,6 +3,10 @@
   role: Principal Investigator
   photo: "images/headshot_sept_2017.JPG"
   
+- name: Derek Howard
+  role: Research Staff
+  photo: "images/people/derek_headshot.jpeg"
+  
 - name: Sonny (Yuxiao) Chen
   role: Postdoctoral Fellow
   photo: "images/people/sonny_headshot_cropped.jpg"
@@ -68,8 +72,3 @@
   role: Undergraduate Student
   program: Mechanical Engineering
   photo: "images/people/maggie_headshot.jpeg"
-  
-- name: Rayan Alim
-  role: Undergraduate Student
-  program: Computer Science
-  photo: "images/people/kcni_logo.jpg"
