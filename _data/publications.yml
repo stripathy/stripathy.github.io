@@ -25,6 +25,7 @@
     <u>Wainberg M</u>, Jacobs GR, di Forti M, <u>Tripathy SJ</u>
   image: ../images/biol_psych.jpeg
   where: Translational Psychiatry
+  press: https://academictimes.com/daily-marijuana-use-could-increase-psychotic-experiences-in-people-at-risk-for-schizophrenia/
   year: 2021
   repo:
     name: PubMed
@@ -57,6 +58,7 @@
   author: >
     Mielnik C, Binko M, <u>Chen Y</u>, Funk A, Johannsson E, Katheron I, Sivananthan N, Islam R, Milenkovic M, Horsfall W, Ross R, Groc L, Salahpour A, McCullumsmith M, <u>Tripathy SJ</u>, Lambe E, Ramsey AJ. 
   image: ../images/biol_psych.jpeg
+  where: Molecular Psychiatry
   year: 2020
   repo:
     name: PubMed
@@ -67,6 +69,7 @@
   author: >
     <u>Tripathy SJ</u>
   image: ../images/biol_psych.jpeg
+  where: Biological Psychiatry
   year: 2020
   repo:
     name: PubMed
@@ -77,6 +80,7 @@
   author: >
     Nagy C, Maitra M, Tanti A, Suderman M, Theroux JF, Davoli MA, Perlman K, Yerko V, <u>Tripathy SJ</u>, Pavlidis P, Mechawar N, Ragoussis J, Turecki G
   image: ../images/biol_psych.jpeg
+  where: Nature Neuroscience
   year: 2020
   repo:
     name: PubMed
