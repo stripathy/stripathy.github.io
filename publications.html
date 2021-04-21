@@ -29,7 +29,9 @@ layout: page
             <p class="pub-author">{{ pub.author }}
             <br>
             <i class="pub-where">{{ pub.where }}</i>
-            <a href="{{ pub.press }}">Press</a>            
+            {% if pub.press %}
+                <a href="{{ pub.press }}">Press</a> 
+            {% endif %}
             </p>
             {% if pub.abstract %}
             <p class="pub-abstract">{{ pub.abstract }}</p>
