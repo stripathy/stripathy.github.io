@@ -26,8 +26,6 @@
   repo:
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/33837184/
-    name: Press
-    url: https://academictimes.com/daily-marijuana-use-could-increase-psychotic-experiences-in-people-at-risk-for-schizophrenia/
     
 - title: >
     Estimating and Correcting for Off-Target Cellular Contamination in Brain Cell Type Specific RNA-Seq Data. 
