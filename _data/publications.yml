@@ -1,6 +1,43 @@
 ---
 
 - title: >
+    Symptom dimensions of major depression in a large community-based cohort.
+  author: >
+    <u>Wainberg M</u>, Zhukovsky P, Hill SL, Felsky D, Voineskos A, Kennedy S, Hawco C, <u>Tripathy SJ</u>
+  image: ../images/biol_psych.jpeg
+  year: 2021
+
+- title: >
+    Diversity amongst human cortical pyramidal neurons revealed via their sag currents and frequency preferences.
+  author: >
+    Moradi H, Rich S, Wang L, Chen FD, Zhang L, Carlen PL, <u>Tripathy SJ*</u>, Valiante TA*
+  image: ../images/biol_psych.jpeg
+  year: 2021
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/10.1101/748988v2
+
+- title: >
+    Cannabis, schizophrenia genetic risk, and psychotic experiences : A cross-sectional study of 109,308 participants from the UK Biobank. 
+  author: >
+    <u>Wainberg M</u>, Jacobs GR, di Forti M, <u>Tripathy SJ</u>
+  image: ../images/biol_psych.jpeg
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7966716/
+    
+- title: >
+    Estimating and Correcting for Off-Target Cellular Contamination in Brain Cell Type Specific RNA-Seq Data. 
+  author: >
+    <u>Sicherman J</u>, Newton D, Pavlidis P, Sibille E, <u>Tripathy SJ</u>
+  image: ../images/biol_psych.jpeg
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/33746712/
+
+- title: >
     Patch-seq: Past, Present, and Future. 
   author: >
     Lipovsek M, Bardy C, Cadwell CR, Hadley K, Kobak D, <u>Tripathy SJ</u>
@@ -49,16 +86,6 @@
   repo:
     name: bioRxiv
     url: https://www.biorxiv.org/content/10.1101/2020.09.01.278879v1.abstract
-
-- title: >
-    Sag currents are a major contributor to human pyramidal cell intrinsic differences across cortical layers and between individuals.
-  author: >
-    Moradi H, Wang L, Zhang L, Carlen P, <u>Tripathy SJ*</u>, Valiante TA*
-  image: ../images/biol_psych.jpeg
-  year: 2019
-  repo:
-    name: bioRxiv
-    url: https://www.biorxiv.org/content/10.1101/748988v2
 
 - title: >
     Transcriptomic correlates of electrophysiological and morphological diversity within and across neuron cell types.
