@@ -5,6 +5,7 @@
   author: >
     <u>Wainberg M</u>, Zhukovsky P, Hill SL, Felsky D, Voineskos A, Kennedy S, Hawco C, <u>Tripathy SJ</u>
   image: ../images/biol_psych.jpeg
+  where: Psychological Medicine
   year: 2021
 
 - title: >
@@ -12,6 +13,7 @@
   author: >
     Moradi H, Rich S, Wang L, Chen FD, Zhang L, Carlen PL, <u>Tripathy SJ*</u>, Valiante TA*
   image: ../images/biol_psych.jpeg
+  where: Nature Communications
   year: 2021
   repo:
     name: bioRxiv
@@ -22,6 +24,7 @@
   author: >
     <u>Wainberg M</u>, Jacobs GR, di Forti M, <u>Tripathy SJ</u>
   image: ../images/biol_psych.jpeg
+  where: Translational Psychiatry
   year: 2021
   repo:
     name: PubMed
@@ -32,6 +35,7 @@
   author: >
     <u>Sicherman J</u>, Newton D, Pavlidis P, Sibille E, <u>Tripathy SJ</u>
   image: ../images/biol_psych.jpeg
+  where: Translational Psychiatry
   year: 2021
   repo:
     name: PubMed
@@ -42,6 +46,7 @@
   author: >
     Lipovsek M, Bardy C, Cadwell CR, Hadley K, Kobak D, <u>Tripathy SJ</u>
   image: ../images/biol_psych.jpeg
+  where: Journal of Neuroscience
   year: 2021
   repo:
     name: PubMed
