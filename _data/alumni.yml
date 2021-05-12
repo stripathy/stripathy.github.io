@@ -1,4 +1,14 @@
 ---
+- name: Xiao Luo
+  role: Postdoctoral Fellow
+  program: Co-advised with Taufik Valiante
+  photo: "images/people/xiao_luo.jpg"
+  
+- name: Jessie Lam
+  role: Undergraduate Student
+  program: Computer Science and Bioinformatics
+  photo: "images/people/jessie_headshot.jpg"
+
 - name: Jordan Sicherman
   role: MSc Student Intern
   program: UBC Bioinformatics
