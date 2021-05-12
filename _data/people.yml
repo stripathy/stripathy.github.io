@@ -11,11 +11,6 @@
   role: Postdoctoral Fellow
   photo: "images/people/sonny_headshot_cropped.jpg"
   
-- name: Xiao Luo
-  role: Postdoctoral Fellow
-  program: Co-advised with Taufik Valiante
-  photo: "images/people/xiao_luo.jpg"
-  
 - name: Michael Wainberg
   role: Postdoctoral Fellow
   photo: "images/people/michael_wainberg.jpg"
@@ -62,11 +57,6 @@
   program: Computer Science and Bioinformatics
   other: Co-advised with Dan Felsky
   photo: "images/people/micaela_headshot.jfif"
-  
-- name: Jessie Lam
-  role: Undergraduate Student
-  program: Computer Science and Bioinformatics
-  photo: "images/people/jessie_headshot.jpg"
   
 - name: Kara Han
   role: Undergraduate Student
