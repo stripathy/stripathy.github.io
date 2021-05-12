@@ -26,6 +26,11 @@
   other: Co-advised with Sean Hill
   photo: "images/people/Anukrati_Nigam_2020.png"
   
+- name: Keon Arbabi
+  role: PhD Student
+  program: Institute of Medical Sciences
+  photo: "images/people/KeonPP.jpg"
+  
 - name: Isabel Kerrebijn
   role: MSc Student
   program: Institute of Medical Sciences
@@ -72,3 +77,18 @@
   role: Undergraduate Student
   program: Mechanical Engineering
   photo: "images/people/maggie_headshot.jpeg"
+
+- name: January Yue
+  role: Undergraduate Student
+  program: Immunology and Genome Biology
+  photo: "images/people/IMG_8270.JPG"
+  
+- name: Ben Xu
+  role: Undergraduate Student
+  program: Laboratory Medicine and Pathobiology
+  photo: "images/people/Ben.jpeg"
+  
+- name: Diana Nelles
+  role: Undergraduate Student
+  program: Pharmacology and Toxicology
+  photo: "images/people/Diana_Pic.jpg"
