@@ -7,6 +7,9 @@
   image: ../images/biol_psych.jpeg
   where: Psychological Medicine
   year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34008483/
 
 - title: >
     Diversity amongst human cortical pyramidal neurons revealed via their sag currents and frequency preferences.
@@ -16,8 +19,8 @@
   where: Nature Communications
   year: 2021
   repo:
-    name: bioRxiv
-    url: https://www.biorxiv.org/content/10.1101/748988v2
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/33941783/
 
 - title: >
     Cannabis, schizophrenia genetic risk, and psychotic experiences : A cross-sectional study of 109,308 participants from the UK Biobank. 
