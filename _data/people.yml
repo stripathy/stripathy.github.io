@@ -7,6 +7,9 @@
   role: Research Staff
   photo: "images/people/derek_ml.jpeg"
   
+- name: Mel Davie
+  role: Research Staff
+  
 - name: Sonny (Yuxiao) Chen
   role: Postdoctoral Fellow
   photo: "images/people/sonny_headshot_cropped.jpg"
@@ -14,6 +17,15 @@
 - name: Michael Wainberg
   role: Postdoctoral Fellow
   photo: "images/people/michael_wainberg.jpg"
+  
+- name: Nickie Safarian
+  role: Postdoctoral Fellow
+  photo: "images/people/nickie_headshot.jpg"
+  
+- name: Stuart Matan Lithwick
+  role: Postdoctoral Fellow
+  photo: "images/people/stuart_headshot.jpg"
+  other: Co-advised with Dan Felsky
   
 - name: Anukrati Nigam
   role: PhD Student
@@ -36,6 +48,10 @@
   program: Institute of Medical Sciences
   other: Co-advised with Leon French
   photo: "images/people/kim-ethan.png"
+  
+- name: Shu'ayb Simmons
+  role: MSc Student
+  program: Institute of Medical Sciences
   
 - name: Alex Hoggarth
   role: MD Student
