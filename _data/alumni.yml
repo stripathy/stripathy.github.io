@@ -1,4 +1,30 @@
 ---
+- name: Allen Hsiao
+  role: Undergraduate Student
+  program: Neuroscience and Physiology
+  photo: "images/people/allen_cropped.jpg"
+  
+- name: Micaela Consens
+  role: Undergraduate Student
+  program: Computer Science and Bioinformatics
+  other: Co-advised with Dan Felsky
+  photo: "images/people/micaela_headshot.jfif"
+  
+- name: Kara Han
+  role: Undergraduate Student
+  program: Bioinformatics and Molecular Genetics
+  photo: "images/people/kara_headshot.png"
+  
+- name: Maggie Vuong
+  role: Undergraduate Student
+  program: Mechanical Engineering
+  photo: "images/people/maggie_headshot.jpeg"
+  
+- name: Diana Nelles
+  role: Undergraduate Student
+  program: Pharmacology and Toxicology
+  photo: "images/people/Diana_Pic.jpg"
+  
 - name: Xiao Luo
   role: Postdoctoral Fellow
   program: Co-advised with Taufik Valiante
