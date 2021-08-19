@@ -58,32 +58,11 @@
   program: McMaster University
   photo: "images/people/alex_hoggarth_headshot.jpeg"
   
-- name: Allen Hsiao
-  role: Undergraduate Student
-  program: Neuroscience and Physiology
-  photo: "images/people/allen_cropped.jpg"
-  
 - name: Emma Hunter
   role: Undergraduate Student
   program: Mathematics
   photo: "images/people/emma_photo_cropped.jpg"
   
-- name: Micaela Consens
-  role: Undergraduate Student
-  program: Computer Science and Bioinformatics
-  other: Co-advised with Dan Felsky
-  photo: "images/people/micaela_headshot.jfif"
-  
-- name: Kara Han
-  role: Undergraduate Student
-  program: Bioinformatics and Molecular Genetics
-  photo: "images/people/kara_headshot.png"
-  
-- name: Maggie Vuong
-  role: Undergraduate Student
-  program: Mechanical Engineering
-  photo: "images/people/maggie_headshot.jpeg"
-
 - name: January Yue
   role: Undergraduate Student
   program: Immunology and Genome Biology
@@ -94,7 +73,6 @@
   program: Laboratory Medicine and Pathobiology
   photo: "images/people/Ben.jpeg"
   
-- name: Diana Nelles
+- name: Didier Ha
   role: Undergraduate Student
   program: Pharmacology and Toxicology
-  photo: "images/people/Diana_Pic.jpg"
