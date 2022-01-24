@@ -6,7 +6,7 @@ excerpt: >
   Shreejoy reviews TripLab's progress over its 3rd year
 ---
 
-# A look back at TripLab's thrid year
+# A look back at TripLab's third year
 
 ## The lab as a living, breathing organism
 
