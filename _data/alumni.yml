@@ -1,17 +1,51 @@
 ---
+- name: Sonny (Yuxiao) Chen
+  role: Postdoctoral Fellow
+  other: Now Bioinformatician at Genentech/Roche
+  photo: "images/people/sonny_headshot_cropped.jpg"
+  
+- name: Ethan Kim
+  role: IMS MSc Student
+  other: Now Research Analyst at CAMH with Abhishek Pratap
+  photo: "images/people/kim-ethan.png"
+  
+- name: Alex Hoggarth
+  role: MD Student
+  other: Now Psychiatry Resident at UofT
+  photo: "images/people/alex_hoggarth_headshot.jpeg"
+  
+- name: Emma Hunter
+  role: Mathematics Undergraduate Student
+  other: Now Data Analyst at Statistics Canada
+  photo: "images/people/emma_photo_cropped.jpg"
+  
+- name: January Yue
+  role: Immunology and Microbiology Undergraduate Student
+  program: Now UofT Immunology PhD student
+  photo: "images/people/IMG_8270.JPG"
+  
+- name: Ben Xu
+  role: Undergraduate Student
+  program: Laboratory Medicine and Pathobiology
+  photo: "images/people/Ben.jpeg"
+  
+- name: Didier Ha
+  role: Undergraduate Student
+  program: Pharmacology and Toxicology
+  photo: "images/people/didi_headshot.jpg"
+
 - name: Allen Hsiao
   role: Undergraduate Student
   program: Neuroscience and Physiology
   photo: "images/people/allen_cropped.jpg"
   
 - name: Micaela Consens
-  role: Undergraduate Student
-  program: Computer Science and Bioinformatics
-  other: Co-advised with Dan Felsky
+  role: Bioinformatics Undergraduate Student
+  program: Now UofT Computer Science PhD student with Bo Wang
   photo: "images/people/micaela_headshot.jfif"
   
 - name: Kara Han
-  role: Undergraduate Student
+  role: Bioinformatics Undergraduate Student
   program: Bioinformatics and Molecular Genetics
   photo: "images/people/kara_headshot.png"
   
@@ -21,13 +55,13 @@
   photo: "images/people/maggie_headshot.jpeg"
   
 - name: Diana Nelles
-  role: Undergraduate Student
-  program: Pharmacology and Toxicology
+  role: Pharmacology and Toxicology Undergraduate Student
+  other: Now UofT PhD student in Laboratory Medicine and Pathology with Lili-Naz Hazrati
   photo: "images/people/Diana_Pic.jpg"
   
 - name: Xiao Luo
   role: Postdoctoral Fellow
-  program: Co-advised with Taufik Valiante
+  other: Now Postdoctoral Fellow at SickKids
   photo: "images/people/xiao_luo.jpg"
   
 - name: Jessie Lam
@@ -38,7 +72,7 @@
 - name: Jordan Sicherman
   role: MSc Student Intern
   program: UBC Bioinformatics
-  other: Co-advised with Etienne Sibille
+  other: Now Bioinformatics Scientist at Notch Therapeutics
   photo: "images/people/kcni_logo.jpg"
   
 - name: Noah Jacobs
