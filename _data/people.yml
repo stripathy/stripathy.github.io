@@ -10,11 +10,7 @@
 - name: Mel Davie
   role: Research Staff
   photo: "images/people/mel_davie.png"
-  
-- name: Sonny (Yuxiao) Chen
-  role: Postdoctoral Fellow
-  photo: "images/people/sonny_headshot_cropped.jpg"
-  
+    
 - name: Michael Wainberg
   role: Postdoctoral Fellow
   photo: "images/people/michael_wainberg.jpg"
@@ -44,40 +40,9 @@
   program: Institute of Medical Sciences
   photo: "images/people/isabel_headshot.jpg"
   
-- name: Ethan Kim
-  role: MSc Student
-  program: Institute of Medical Sciences
-  other: Co-advised with Leon French
-  photo: "images/people/kim-ethan.png"
-  
 - name: Shu'ayb Simmons
   role: MSc Student
   program: Institute of Medical Sciences
   photo: "images/people/Simmons.jpg"
-
   
-- name: Alex Hoggarth
-  role: MD Student
-  program: McMaster University
-  photo: "images/people/alex_hoggarth_headshot.jpeg"
-  
-- name: Emma Hunter
-  role: Undergraduate Student
-  program: Mathematics
-  photo: "images/people/emma_photo_cropped.jpg"
-  
-- name: January Yue
-  role: Undergraduate Student
-  program: Immunology and Genome Biology
-  photo: "images/people/IMG_8270.JPG"
-  
-- name: Ben Xu
-  role: Undergraduate Student
-  program: Laboratory Medicine and Pathobiology
-  photo: "images/people/Ben.jpeg"
-  
-- name: Didier Ha
-  role: Undergraduate Student
-  program: Pharmacology and Toxicology
-  photo: "images/people/didi_headshot.jpg"
 
