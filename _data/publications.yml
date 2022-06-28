@@ -1,8 +1,19 @@
 ---
 - title: >
+    Multiscale neural signatures of major depressive, anxiety,  and stress-related disorders.
+  author: >
+    1)	Zhukovsky P., Wainberg, M., Milic M., Tripathy, S.J., Mulsant B.H., Felsky D., Voineskos, A.N.
+  image: ../images/biol_psych.jpeg
+  where: Proceedings of the National Academy of Sciences
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35648832/
+
+- title: >
     LaminaRGeneVis: a tool to visualize gene expression across the laminar architecture of the human neocortex. 
   author: >
-    1)	Kim, E. H., Howard, D., Chen, Y., Tripathy, S. J.*, & French, L.*
+    Kim, E. H., Howard, D., Chen, Y., Tripathy, S. J.*, & French, L.*
   image: ../images/biol_psych.jpeg
   where: Frontiers in Neuroinformatics
   year: 2022
