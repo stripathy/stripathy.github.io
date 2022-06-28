@@ -29,15 +29,15 @@
   program: Laboratory Medicine and Pathobiology
   photo: "images/people/Ben.jpeg"
   
-- name: Didier Ha
-  role: Undergraduate Student
-  program: Pharmacology and Toxicology
-  photo: "images/people/didi_headshot.jpg"
-  
 - name: Allen Hsiao
   role: Undergraduate Student
   program: Neuroscience and Physiology
   photo: "images/people/allen_cropped.jpg"
+  
+- name: Didier Ha
+  role: Undergraduate Student
+  program: Pharmacology and Toxicology
+  photo: "images/people/didi_headshot.jpg"
   
 - name: Micaela Consens
   role: Bioinformatics Undergraduate Student
@@ -49,15 +49,15 @@
   program: Bioinformatics and Molecular Genetics
   photo: "images/people/kara_headshot.png"
   
-- name: Maggie Vuong
-  role: Undergraduate Student
-  program: Mechanical Engineering
-  photo: "images/people/maggie_headshot.jpeg"
-  
 - name: Diana Nelles
   role: Pharmacology and Toxicology Undergraduate Student
   program: Now UofT PhD student in Laboratory Medicine and Pathology with Lili-Naz Hazrati
   photo: "images/people/Diana_Pic.jpg"
+  
+- name: Maggie Vuong
+  role: Undergraduate Student
+  program: Mechanical Engineering
+  photo: "images/people/maggie_headshot.jpeg"
   
 - name: Xiao Luo
   role: Postdoctoral Fellow
@@ -69,16 +69,16 @@
   program: Computer Science and Bioinformatics
   photo: "images/people/jessie_headshot.jpg"
   
+- name: Noah Jacobs
+  role: Undergraduate Student
+  program: Computer science at Queen's University
+  photo: "images/people/noah_headshot.jpg"
+  
 - name: Jordan Sicherman
   role: MSc Student Intern
   program: UBC Bioinformatics
   other: Now Bioinformatics Scientist at Notch Therapeutics
   photo: "images/people/kcni_logo.jpg"
-  
-- name: Noah Jacobs
-  role: Undergraduate Student
-  program: Computer science at Queen's University
-  photo: "images/people/noah_headshot.jpg"
   
 - name: Young Seok Seo
   role: Undergraduate Student
