@@ -1,22 +1,22 @@
 ---
 - name: Sonny (Yuxiao) Chen
   role: Postdoctoral Fellow
-  other: Now Bioinformatician at Genentech/Roche
+  program: Now Bioinformatician at Genentech/Roche
   photo: "images/people/sonny_headshot_cropped.jpg"
   
 - name: Ethan Kim
   role: IMS MSc Student
-  other: Now Research Analyst at CAMH with Abhishek Pratap
+  program: Now Research Analyst at CAMH with Abhishek Pratap
   photo: "images/people/kim-ethan.png"
   
 - name: Alex Hoggarth
   role: MD Student
-  other: Now Psychiatry Resident at UofT
+  program: Now Psychiatry Resident at UofT
   photo: "images/people/alex_hoggarth_headshot.jpeg"
   
 - name: Emma Hunter
   role: Mathematics Undergraduate Student
-  other: Now Data Analyst at Statistics Canada
+  program: Now Data Analyst at Statistics Canada
   photo: "images/people/emma_photo_cropped.jpg"
   
 - name: January Yue
@@ -56,12 +56,12 @@
   
 - name: Diana Nelles
   role: Pharmacology and Toxicology Undergraduate Student
-  other: Now UofT PhD student in Laboratory Medicine and Pathology with Lili-Naz Hazrati
+  program: Now UofT PhD student in Laboratory Medicine and Pathology with Lili-Naz Hazrati
   photo: "images/people/Diana_Pic.jpg"
   
 - name: Xiao Luo
   role: Postdoctoral Fellow
-  other: Now Postdoctoral Fellow at SickKids
+  program: Now Postdoctoral Fellow at SickKids
   photo: "images/people/xiao_luo.jpg"
   
 - name: Jessie Lam
