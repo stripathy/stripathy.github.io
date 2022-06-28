@@ -1,5 +1,103 @@
 ---
+- title: >
+    LaminaRGeneVis: a tool to visualize gene expression across the laminar architecture of the human neocortex. 
+  author: >
+    1)	Kim, E. H., Howard, D., Chen, Y., Tripathy, S. J.*, & French, L.*
+  image: ../images/biol_psych.jpeg
+  where: Frontiers in Neuroinformatics
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35281717/
 
+- title: >
+    Bulk and Single-nucleus Transcriptomics Highlight Intra-telencephalic and Somatostatin Neurons in Alzheimer's Disease. 
+  author: >
+    Consens, M.E., Chen, Y., Menon, V., Wang, Y., Schneider, J.A., De Jager, P.L., Bennett, D.A., Tripathy, S.J.* and Felsky, D.* 
+  image: ../images/biol_psych.jpeg
+  where: Frontiers in Molecular Neuroscience
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35754708/
+
+- title: >
+    Reduced inhibition in depression impairs stimulus processing in human cortical microcircuits. 
+  author: >
+    Yao, H.K., Guet-McCreight, A., Mazza, F., Chameh, H.M., Prevot, T.D., Griffiths, J.D., Tripathy, S.J., Valiante, T.A., Sibille, E. and Hay, E. 
+  image: ../images/biol_psych.jpeg
+  where: Cell reports
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35021088/
+
+- title: >
+    The Neuron Phenotype Ontology: A FAIR Approach to Proposing and Classifying Neuronal Types 
+  author: >
+    Gillespie, T.H., Tripathy, S.J., Sy, M.F. Martone M.E., Hill S.L. 
+  image: ../images/biol_psych.jpeg
+  where: Neuroinformatics
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35267146/
+
+- title: >
+    Neurobiological, familial and genetic risk factors for dimensional psychopathology in the Adolescent Brain Cognitive Development study. 
+  author: >
+    Wainberg, M., Jacobs, G.R., Voineskos, A.N. and Tripathy, S.J.
+  image: ../images/biol_psych.jpeg
+  where: Molecular Psychiatry
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35361904/
+
+- title: >
+    Predicting causal genes from psychiatric genome-wide association studies using high-level etiological knowledge. 
+  author: >
+    Wainberg, M., Merico, D., Keller, M.C., Fauman, E.B. and Tripathy, S.J.
+  image: ../images/biol_psych.jpeg
+  where: Molecular Psychiatry
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35411039/
+
+- title: >
+    Deletion of Loss-of-Function–Intolerant Genes and Risk of 5 Psychiatric Disorders.
+  author: >
+    Wainberg M, Merico D, Huguet G, Zarrei M, Jacquemont S, Scherer SW, Tripathy SJ. 
+  image: ../images/biol_psych.jpeg
+  where: JAMA Psychiatry
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34851367/
+
+- title: >
+    Association of accelerometer-derived sleep measures with lifetime psychiatric diagnoses: A cross-sectional study of 89,205 participants from the UK Biobank.
+  author: >
+    Wainberg, M., Jones, S.E., Beaupre, L.M., Hill, S.L., Felsky, D., Rivas, M.A., Lim, A.S., Ollila, H.M. and Tripathy, S.J.
+  image: ../images/biol_psych.jpeg
+  where: PLoS Medicine
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34637446/
+
+- title: >
+    Clinical laboratory tests and five-year incidence of major depressive disorder: a prospective cohort study of 433,890 participants from the UK Biobank.
+  author: >
+    <u>Wainberg, M.</u>, Kloiber, S., Diniz, B., McIntyre, RS., Felsky, D., <u>Tripathy, SJ.</u>
+  image: ../images/biol_psych.jpeg
+  where: Transl Psychiatry
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34234104/
+    
 - title: >
     Symptom dimensions of major depression in a large community-based cohort.
   author: >
