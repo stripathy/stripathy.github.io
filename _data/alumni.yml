@@ -1,4 +1,9 @@
 ---
+- name: Emma Hunter
+  role: Mathematics Undergraduate Student
+  program: Now Data Analyst at Statistics Canada
+  photo: "images/people/emma_photo_cropped.jpg"
+  
 - name: Sonny (Yuxiao) Chen
   role: Postdoctoral Fellow
   program: Now Bioinformatician at Genentech/Roche
@@ -13,11 +18,6 @@
   role: MD Student
   program: Now Psychiatry Resident at UofT
   photo: "images/people/alex_hoggarth_headshot.jpeg"
-  
-- name: Emma Hunter
-  role: Mathematics Undergraduate Student
-  program: Now Data Analyst at Statistics Canada
-  photo: "images/people/emma_photo_cropped.jpg"
   
 - name: January Yue
   role: Immunology and Microbiology Undergraduate Student
