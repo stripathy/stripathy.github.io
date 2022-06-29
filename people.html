@@ -35,7 +35,6 @@ layout: default
                 <div class="col-sm-8">
                     <h4 class="person-role">{{ person.name }}</h4>
                     <p class="person-role">{{ person.role }}, {{ person.program }}</p>
-                    <br>
                     <i class="person-role">{{ person.other }}</i>
                 </div>
             </div>
@@ -43,27 +42,6 @@ layout: default
         {% endfor %}
     </div>
     
-    <div class="container">
-        
-        <h1 class="people">Alumni</h1>
-
-        {% for person in site.data.alumni %}
-
-        <div class="person col-md-4 col-sm-6 col-xs-12">
-            <img src="{{ person.photo }}"
-                 alt="photo" class="person-photo img-circle">
-
-            <h3 class="person-role">{{ person.name }}</h3>
-            <p class="person-role">{{ person.role }}
-            <br>{{ person.program }}
-            <br>{{ person.other }}
-            <br>{{ person.email }}</p>
-
-
-        </div>
-   
-        {% endfor %}
-    </div>
     <div class="container">
 
         
