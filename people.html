@@ -24,6 +24,25 @@ layout: default
    
         {% endfor %}
     </div>
+    
+    <div class="container">
+        
+        <h1 class="people">Alumni</h1>
+
+        {% for person in site.data.alumni %}
+
+            <div class="pub row">
+                <div class="col-sm-8">
+                    <h4 class="person-role">{{ person.name }}</h4>
+                    <p class="person-role">{{ person.role }}, {{ person.program }}</p>
+                    <br>
+                    <i class="person-role">{{ person.other }}</i>
+                </div>
+            </div>
+   
+        {% endfor %}
+    </div>
+    
     <div class="container">
         
         <h1 class="people">Alumni</h1>
