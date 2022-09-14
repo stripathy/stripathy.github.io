@@ -35,34 +35,42 @@
   program: Institute of Medical Sciences
   photo: "images/people/KeonPP.jpg"
   
-- name: Isabel Kerrebijn
-  role: MSc Student
-  program: Institute of Medical Sciences
-  photo: "images/people/isabel_headshot.jpg"
+- name: Nuo Xu
+  role: PhD Student
+  program: Physiology
   
 - name: Shu'ayb Simmons
   role: MSc Student
   program: Institute of Medical Sciences
   photo: "images/people/Simmons.jpg"
   
-- name: Alex Gonzalez Segura
-  role: PhD Student Intern
-  program: University of Barcelona
-  photo: "images/people/alex_s_headshot.png"
+- name: Radhika Mahajan
+  role: MHSc Student Intern
+  program: Medical Genomics
+  photo: "images/people/radhika_mahajan.jfif"
   
 - name: Jessica Xia
   role: Undergraduate Student
   program: Pharmacology and Toxicology
   photo: "images/people/jessica_headshot.jpeg"
-
-- name: Nayeon Hyun
-  role: Undergraduate Student
-  program: Bioinformatics and Computational Biology
-  photo: "images/people/nayeon_headshot.png"
   
 - name: Trusha Tullu
   role: Undergraduate Student
   program: Life Sciences
   photo: "images/people/trusha_headshot.png"
+  
+- name: Young Seok Seo
+  role: Undergraduate Student
+  program: Engineering Science
+  photo: "images/people/young_headshot.jfif"
+  
+- name: Vishali Umaiyalan
+  role: Undergraduate Student
+  program: Bioinformatics and Computational Biology
+  
+- name: Rayan Alim
+  role: Undergraduate Student
+  program: Bioinformatics and Computational Biology
+  photo: "images/people/rayan_alim.png"
   
 
