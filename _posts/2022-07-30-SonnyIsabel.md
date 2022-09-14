@@ -11,4 +11,4 @@ Sonny, Shreejoy's first hire, recently moved on from his post-doc role in TripLa
 ![sonny_bubbly](/images/lab_fun/summer_2022/sonny_bubbly.jpg "sonny_bubbly"){:height="600px"}
 ![park_1](/images/lab_fun/summer_2022/park_1.jpg "park_1"){:height="600px"}
 ![shreejoy_speech](/images/lab_fun/summer_2022/20220708_180420.jpg "shreejoy_speech"){:height="600px"}
-![karoke](/images/lab_fun/summer_2022/karoke.jpg "karoke"){:height="600px"}
+![karaoke](/images/lab_fun/summer_2022/karaoke.jpg "karaoke"){:height="600px"}
