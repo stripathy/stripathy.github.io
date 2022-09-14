@@ -8,13 +8,13 @@
 - name: Alex Gonzalez Segura
   when: May 2022 - Aug 2022
   role: PhD Student Intern
-  program: University of Barcelona
+  program: Now PhD student at University of Barcelona
   photo: "images/people/alex_s_headshot.png"
   
 - name: Isabel Kerrebijn
   when: Sept 2020 - Aug 2022
   role: MSc Student
-  program: Data Scientist at Physiology startup
+  program: Now Data Scientist at Physiology startup
   photo: "images/people/isabel_headshot.jpg"
   
 - name: Sonny (Yuxiao) Chen
