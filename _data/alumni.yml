@@ -1,4 +1,22 @@
 ---
+- name: Nayeon Hyun
+  when: May 2022 - Aug 2022
+  role: Undergraduate Student
+  program: Now Intern at OICR
+  photo: "images/people/nayeon_headshot.png"
+  
+- name: Alex Gonzalez Segura
+  when: May 2022 - Aug 2022
+  role: PhD Student Intern
+  program: University of Barcelona
+  photo: "images/people/alex_s_headshot.png"
+  
+- name: Isabel Kerrebijn
+  when: Sept 2020 - Aug 2022
+  role: MSc Student
+  program: Data Scientist at Physiology startup
+  photo: "images/people/isabel_headshot.jpg"
+  
 - name: Sonny (Yuxiao) Chen
   when: Sept 2019 - June 2022
   role: Postdoctoral Fellow
@@ -89,12 +107,6 @@
   program: UBC Bioinformatics
   other: Now Bioinformatics Scientist at Notch Therapeutics
   photo: "images/people/kcni_logo.jpg"
-  
-- name: Young Seok Seo
-  when: May 2019 - Apr 2020
-  role: Undergraduate Student
-  program: Engineering Science
-  photo: "images/people/young_headshot.jfif"
   
 - name: Justin Chee
   when: Sept 2019 - Apr 2020
