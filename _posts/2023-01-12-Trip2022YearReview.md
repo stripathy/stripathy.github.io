@@ -18,11 +18,17 @@ Looking back, I think moving the lab’s interactions back in person from fully 
 
 I still think having lab interactions in person is better than not. Doing stuff in person (and trying to schedule things where as much of the lab is in at the same time) contributes to natural  interactions between lab members. And scheduling regular lab socials (board game night, karaoke, etc.) has been really great too. I look forward to pandemic-related restrictions continuing to be lifted, but I also recognize (and benefit from) working from home a couple days a week.
 
+![keon_sfn_2022](/images/lab_fun/fall_2022/keon_sfn_2022.jpg "keon_sfn_2022"){:height="400px"}
+![shreejoy_krishnan_fall_2022](/images/lab_fun/fall_2022/shreejoy_krishnan_fall_2022.jpg "shreejoy_krishnan_fall_2022"){:height="400px"}
+
 ## Celebrating our lab’s wins
 
 The most memorable moments over the last year were big achievements by my trainees. Sonny, who as my lab’s first hire helped me build up the lab from scratch, was hired into a staff bioinformatician role at Genentech/Roche. Isabel graduated with her masters and moved onto a data science lead role at a local biomedical start up. And Michael won a super-prestigious Banting post-doctoral fellowship and is now on the academic job market. It’s brought me so much joy to celebrate my awesome people and I’m so proud of these and the small daily wins of my lab.
 
 We did SO MUCH science over the last year. It boggles my mind how much we submitted, published, and (unfortunately) how much remains on my desk waiting for my feedback and attention. A few things that I’m especially proud of: [Keon and January’s microglia in Patch-seq work](https://www.biorxiv.org/content/10.1101/2022.09.07.507009v2), which was even profiled in a piece in [Nature Methods](https://www.nature.com/articles/s41592-022-01662-5). Michael published a couple of neat papers on using mutational constraint to help prioritize [causal genes in large genetic deletions](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2786543) and [near GWAS loci](https://www.nature.com/articles/s41380-022-01542-6). A final highlight is Micaela and Sonny’s paper on [loss of SST cells and IT pyramidals cells in Alzheimer’s](https://www.frontiersin.org/articles/10.3389/fnmol.2022.903175/full). And we have a ton of stuff in the pipeline, including a lot of work with cell type-specific splicing, cell disorder-related differential expression, polygenic scores, Patch-seq, etc that I look forward to sharing over the coming year.
+
+![sonny_bubbly](/images/lab_fun/summer_2022/sonny_bubbly.jpg "sonny_bubbly"){:height="400px"}
+![boardgame_night_fall_2022](/images/lab_fun/fall_2022/boardgame_night_fall_2022.jpg "boardgame_night_fall_2022"){:height="400px"}
 
 ## Not a “new lab” anymore
 
@@ -41,3 +47,6 @@ I’m grateful these days to feel a little less pressure to fight tooth and nail
 As the pandemic approaches endemicity and lockdowns (hopefully) become a distant memory, I’m hopeful that we won’t forget everything we’ve learned over the last few years. For me, one of the lasting lessons is the importance of mental health. I think everyone’s mental well-being suffered (at least a little bit) as we all had to manage stress and anxiety and fear. Like a lot of people, I developed some really unhealthy coping strategies, like drinking too much and overeating, and it wasn’t until my wife mentioned it to me that I realized these habits were actually making my sleep and anxiety much worse.
 
 But I think the silver lining is that the pandemic has brought mental health to the forefront. I’m pleasantly surprised by just how open folks are these days with discussing their experiences and struggles and even the ups and downs of their journey getting treatment. It really does feel like mental health is (finally!) becoming destigmatized and I look forward to this continuing in the future.
+
+![christmas_2022](/images/lab_fun/fall_2022/christmas_2022.jpg "christmas_2022"){:height="400px"}
+
