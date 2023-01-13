@@ -38,6 +38,8 @@ This was the first year I experienced just how much of a change it can be when f
 
 These days, I’m feeling the pressure to apply for grants, especially bigger ones like CIHR Project grants. We’ve done a lot of great science over the last few years and have a ton of preliminary data and ideas for further exploration, but I’m a little scared of having to write all this up and explicitly advocate for more funding. A lot of my lab’s approach to science thus far has been to work on different things that we find interesting and “see what sticks”. That approach has worked well for us but it differs from the more structured approach needed for traditional large grant proposals. I’m confident we’ll figure it out and I know writing grants will be ultimately good for helping synthesize our ideas and distill our plans, but it’s still daunting. 
 
+![sonny_teaching](/images/lab_fun/summer_2022/sonny_teaching.jpg "sonny_teaching"){:height="400px"}
+
 ## TripLab 2.0
 
 Looking forward over the next year or so, I’m eager to continue doing really exciting basic science stuff, but I’m finding myself more drawn to projects that might also have a more immediate clinical or translational component. We’re part of a couple recent efforts at CAMH,  including some related to personalized medicine, that I’m really excited about. 
