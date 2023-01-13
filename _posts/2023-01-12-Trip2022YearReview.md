@@ -39,6 +39,7 @@ This was the first year I experienced just how much of a change it can be when f
 These days, I’m feeling the pressure to apply for grants, especially bigger ones like CIHR Project grants. We’ve done a lot of great science over the last few years and have a ton of preliminary data and ideas for further exploration, but I’m a little scared of having to write all this up and explicitly advocate for more funding. A lot of my lab’s approach to science thus far has been to work on different things that we find interesting and “see what sticks”. That approach has worked well for us but it differs from the more structured approach needed for traditional large grant proposals. I’m confident we’ll figure it out and I know writing grants will be ultimately good for helping synthesize our ideas and distill our plans, but it’s still daunting. 
 
 ![sonny_teaching](/images/lab_fun/summer_2022/sonny_teaching.jpg "sonny_teaching"){:height="400px"}
+![maddy_beautiful_umaps](/images/lab_fun/fall_2022/maddy_beautiful_umaps.jpg "maddy_beautiful_umaps"){:height="400px"}
 
 ## TripLab 2.0
 
@@ -50,5 +51,5 @@ As the pandemic approaches endemicity and lockdowns (hopefully) become a distant
 
 But I think the silver lining is that the pandemic has brought mental health to the forefront. I’m pleasantly surprised by just how open folks are these days with discussing their experiences and struggles and even the ups and downs of their journey getting treatment. It really does feel like mental health is (finally!) becoming destigmatized and I look forward to this continuing in the future.
 
-![christmas_2022](/images/lab_fun/fall_2022/christmas_2022.jpg "christmas_2022"){:height="400px"}
+![christmas_2022](/images/lab_fun/fall_2022/christmas_2022.jpg "christmas_2022"){:height="800px"}
 
