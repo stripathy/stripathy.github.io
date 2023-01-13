@@ -41,7 +41,7 @@ These days, I’m feeling the pressure to apply for grants, especially bigger on
 
 ## TripLab 2.0
 
-Looking forward over the next year or so, I’m eager to continue doing really exciting basic science stuff, but I’m finding myself more drawn to projects that might also have a more immediate clinical or translational component. We’re part of a couple recent efforts at CAMH,  including some related to personalized medicine, that I’m really excited about. 
+Compared to my first few years ([2019](https://triplab.org/2020/01/12/TripFirstYearReview.html), [2020](https://triplab.org/2021/01/16/Trip2020YearReview.html), [2021](https://triplab.org/2022/01/24/Trip2021YearReview.html)), looking forward over the next year or so, I’m eager to continue doing really exciting basic science stuff, but I’m finding myself more drawn to projects that might also have a more immediate clinical or translational component. We’re part of a couple recent efforts at CAMH,  including some related to personalized medicine, that I’m really excited about. 
 
 I’m grateful these days to feel a little less pressure to fight tooth and nail for the future viability of the lab. I’m thinking more about how we can improve the lab for the long term, like how we can continue to attract the best and most diverse talent. I’m also actively looking for ways I can teach more - which I really love and would like to do more of.
 
