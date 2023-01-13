@@ -6,8 +6,6 @@ excerpt: >
   Shreejoy reviews TripLab's progress over its 4th year
 ---
 
-# 2022 TripLab Year in Review
-
 2022 marked the lab’s 4th year. A few words and phrases that defined the year: “the new normal”, “return to on-site work”, “out sick with ____”, “i’m interviewing for a job / i got a job / actually i start next week”, “we are thrilled to announce…”, “unfortunately myself and other editors have decided…”
 
 ## Moving towards a post-pandemic lab
