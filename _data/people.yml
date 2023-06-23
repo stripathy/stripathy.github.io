@@ -6,6 +6,10 @@
 - name: Derek Howard
   role: Research Staff
   photo: "images/people/derek_ml.jpeg"
+
+- name: Dan Kiss
+  role: Research Staff
+  photo: "images/people/dan_kiss_headshot.jpg"
   
 - name: Mel Davie
   role: Research Staff
@@ -14,21 +18,6 @@
 - name: Michael Wainberg
   role: Postdoctoral Fellow
   photo: "images/people/michael_wainberg.jpg"
-  
-- name: Nickie Safarian
-  role: Postdoctoral Fellow
-  photo: "images/people/nickie_headshot.jpg"
-  
-- name: Stuart Matan Lithwick
-  role: Postdoctoral Fellow
-  photo: "images/people/cihr_lithwick_stuart.png"
-  other: Co-advised with Dan Felsky
-  
-- name: Anukrati Nigam
-  role: PhD Student
-  program: Institute of Medical Sciences
-  other: Co-advised with Sean Hill
-  photo: "images/people/Anukrati_Nigam_2020.png"
   
 - name: Keon Arbabi
   role: PhD Student
@@ -44,36 +33,15 @@
   role: MSc Student
   program: Institute of Medical Sciences
   photo: "images/people/Shu'ayb_headshot.jpeg"
-  
-- name: Radhika Mahajan
-  role: MHSc Student Intern
-  program: Medical Genomics
-  photo: "images/people/radhika_mahajan.jfif"
-  
-- name: Jessica Xia
-  role: Undergraduate Student
-  program: Pharmacology and Toxicology
-  photo: "images/people/jessica_headshot.jpeg"
-  
-- name: Trusha Tullu
-  role: Undergraduate Student
-  program: Life Sciences
-  photo: "images/people/trusha_headshot.png"
-  
-- name: Young Seok Seo
-  role: Undergraduate Student
-  program: Engineering Science
-  photo: "images/people/young_headshot.jfif"
-  
-- name: Vishali Umaiyalan
-  role: Undergraduate Student
-  program: Bioinformatics and Computational Biology
-  photo: "images/people/vishali.jpg"
 
-  
-- name: Rayan Alim
-  role: Undergraduate Student
-  program: Bioinformatics and Computational Biology
-  photo: "images/people/rayan_alim.png"
-  
+- name: Xiaolin Zhou
+  role: MEng Student Intern
+  program: Biomedical Engineering  
 
+- name: Hailey Xia
+  role: Undergraduate student
+  photo: "images/people/hailey_headshot.png"
+
+- name: Selen Bayram
+  role: Undergraduate student
+  photo: "images/people/selen_headshot.png"
