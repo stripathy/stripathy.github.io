@@ -1,4 +1,43 @@
 ---
+- name: Radhika Mahajan
+  role: MHSc Student Intern
+  program: Medical Genomics
+  photo: "images/people/radhika_mahajan.jfif"
+  
+- name: Jessica Xia
+  role: Undergraduate Student
+  program: Now PhD student in UofT Molecular Genetics
+  photo: "images/people/jessica_headshot.jpeg"
+  
+- name: Trusha Tullu
+  role: Undergraduate Student
+  program: Life Sciences
+  photo: "images/people/trusha_headshot.png"
+  
+- name: Young Seok Seo
+  role: Undergraduate Student
+  program: Now Software Developer at Amazon
+  photo: "images/people/young_headshot.jfif"
+  
+- name: Vishali Umaiyalan
+  role: Undergraduate Student
+  program: Bioinformatics and Computational Biology
+  photo: "images/people/vishali.jpg"
+
+- name: Rayan Alim
+  role: Undergraduate Student
+  program: Bioinformatics and Computational Biology
+  photo: "images/people/rayan_alim.png"
+
+- name: Stuart Matan Lithwick
+  role: Postdoctoral Fellow
+  photo: "images/people/cihr_lithwick_stuart.png"
+  other: Co-advised with Dan Felsky
+
+- name: Nickie Safarian
+  role: Postdoctoral Fellow
+  photo: "images/people/nickie_headshot.jpg"
+
 - name: Nayeon Hyun
   when: May 2022 - Aug 2022
   role: Undergraduate Student
