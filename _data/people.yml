@@ -9,6 +9,7 @@
 
 - name: Dan Kiss
   role: Research Staff
+  photo: "images/people/dan_kiss_headshot.jpg"
   
 - name: Mel Davie
   role: Research Staff
@@ -34,14 +35,13 @@
   photo: "images/people/Shu'ayb_headshot.jpeg"
 
 - name: Xiaolin Zhou
-  role: MSc Student Intern
+  role: MEng Student Intern
   program: Biomedical Engineering  
 
 - name: Hailey Xia
   role: Undergraduate student
+  photo: "images/people/hailey_headshot.png"
 
 - name: Selen Bayram
   role: Undergraduate student
-
-  
-
+  photo: "images/people/selen_headshot.png"
