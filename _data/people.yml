@@ -35,9 +35,14 @@
   photo: "images/people/Shu'ayb_headshot.jpeg"
 
 - name: Xiaolin Zhou
-  role: MEng Student Intern
+  role: Masters Student Intern
   program: Biomedical Engineering  
   photo: "images/people/xiaolin_headshot.jpg"
+
+- name: Afifa Aleem
+  role: Masters Student Intern
+  program: Humber College Research Analyst Training Program 
+  photo: "images/people/afifa_headshot.jpg"
 
 - name: Hailey Xia
   role: Undergraduate student
