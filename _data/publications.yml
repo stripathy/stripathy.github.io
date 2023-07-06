@@ -379,7 +379,7 @@
   year: 2023
   repo:
     name: PubMed
-    url: 
+    url: https://pubmed.ncbi.nlm.nih.gov/36798433/
 
 - title: >
     Bigenomic association study of accelerometer-derived and self-reported sleep properties across UK Biobank participants with lifetime major depressive disorder.
@@ -390,7 +390,7 @@
   year: 2022
   repo:
     name: PubMed
-    url: 
+    url: https://pubmed.ncbi.nlm.nih.gov/36463630/
 
 - title: >
     Sex-specific associations of cardiovascular disease with lifetime diagnosis of bipolar disorder: A cross-sectional analysis of 257,673 participants from the UK Biobank.
