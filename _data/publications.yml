@@ -325,3 +325,312 @@
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/23630284 
+
+- title: >
+    Shared genetic risk loci between Alzheimer’s disease and related dementias, Parkinson’s disease and amyotrophic lateral sclerosis.
+  author: >
+    Wainberg M, Andrews SJ,<u>Tripathy SJ</u>
+  image: 
+  where: Alzheimer's Research and Therapy
+  year: 2023
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/37328865/
+
+- title: >
+    Case-control virtual histology elucidates cell types associated with cortical thickness differences in Alzheimer's disease. 
+  author: >
+    Kerrebijn I, Wainberg M, Zhukovsky P, Chen Y, Davie M, Felsky D, Tripathy SJ.
+  image:
+  where: NeuroImage
+  year: 2023
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/37211192/
+
+- title: >
+    Robust differences in cortical cell type proportions across healthy human aging inferred through cross-dataset transcriptome analyses.
+  author: >
+    Chen Y, Hunter E, Arbabi K, Guet-McCreight A, Consens M, Felsky D, Sibille E, Tripathy SJ.
+  image:
+  where: Neurobiology of Aging
+  year: 2023
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/36841202/
+
+- title: >
+    Identification of Brain Cell Types Underlying Genetic Risk for Reading and Correlated Traits.
+  author: >
+    Price KM, Wigg KG, Nigam A, Blokland K, Wilkinson M, Kerr EN, Guger SL, Lovett MW, Strug SJ, Tripathy SJ, Barr CL.
+  image: 
+  where: Molecular Psychiatry
+  year: 2023
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/36750735/
+   
+- title: >
+    Chrna5 is a marker of cholinergic super-responder subplate neurons in prefrontal cortex with specialized expression of nicotinic modulator proteins.
+  author: >
+    Venkatesan S, Chen T, Liu K, Turner EE, Tripathy SJ, Lambe EK.
+  image: 
+  where: iScience
+  year: 2023
+  repo:
+    name: PubMed
+    url: 
+
+- title: >
+    Bigenomic association study of accelerometer-derived and self-reported sleep properties across UK Biobank participants with lifetime major depressive disorder.
+  author: >
+    Beaupre LM, Wainberg M, Tiwari A, Zai C, Brown G, Byrne EM, Tripathy SJ, Kennedy JL, Vanessa Gonçalves V.
+  image: 
+  where: Journal of Psychiatric Research
+  year: 2022
+  repo:
+    name: PubMed
+    url: 
+
+- title: >
+    Sex-specific associations of cardiovascular disease with lifetime diagnosis of bipolar disorder: A cross-sectional analysis of 257,673 participants from the UK Biobank.
+  author: >
+    Ortiz A, Sanchez M, Abdelhack M, Schwaiger TR, Wainberg M, Tripathy SJ, Felsky D… Fiedorowicz JG.
+  image: 
+  where: J Affect Dis
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/36162675/
+
+- title: >
+    An in vitro whole-cell electrophysiology dataset of human cortical neurons.
+  author: >
+    Howard D*, Chameh HM*, Guet-McCreight A, Hsiao HA, Vuong M, Seo YS, Shah P, Nigam A, Chen Y, Davie M, Hay E, Valiante TA*, Tripathy SJ*
+  image: 
+  where: GigaScience
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/36377463/
+
+- title: >
+    Age-dependent increased sag current in human pyramidal neurons dampens baseline activity and noise in cortical processing.
+  author: >
+    Guet-McCreight A, Chameh HM, Mahallati S, Wishart M, Tripathy SJ, Valiante TA, Hay E.
+  image: 
+  where: Cereb Cortex
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/36124673/
+
+- title: >
+    Fragmentation of Rest Periods, Astrocyte Activation, and Cognitive Decline in Older Adults With and Without Alzheimer’s Disease.
+  author: >
+    Wu R, Tripathy S, Menon V, Yu L, Buchman A, Bennett D, De Jager P, Lim ASP.
+  image: 
+  where: Alzheimer’s and Dementia
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/36335579/
+
+- title: >
+    Identification of endocannabinoid predictors of treatment outcomes in major depressive disorder: A Canadian Biomarker Integration Network for Depression (CAN-BIND) study.
+  author: >
+    Kim HK, Wainberg M, Zai G, Mueller D, Husain MI, Lam RW, Frey BN, Soares C, Parikh S, Milev R, Foster JA, Turecki G, Farzan F, Uher R, Mulsant BH, Kennedy S, Tripathy SJ, Kloiber S.
+  image: 
+  where: Pharmacopsychiatry
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35793696/
+
+- title: >
+    Bulk and Single-nucleus Transcriptomics Highlights Intra-telencephalic and Somatostatin Neurons in Alzheimer’s Disease.
+  author: >
+    Consens M, Chen Y, Menon V, Wang Y, Schneider JA, De Jager PL, Bennett DA, Tripathy SJ, Felsky D.
+  image: 
+  where: Frontiers in Mol Neuro
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35754708/
+
+- title: >
+   Multi-scale neural signatures of major depressive, anxiety, and stress-related disorders.
+  author: >
+    Zhukovsky P, Wainberg M, Milic M, Tripathy SJ, Mulsant BH, Felsky D, Voineskos AN.
+  image: 
+  where: PNAS
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35648832/
+
+- title: >
+    Predicting causal genes from psychiatric genome-wide association studies using high-level etiological knowledge.
+  author: >
+    Wainberg M, Merico D, Keller MC, Fauman EB, Tripathy SJ.
+  image: 
+  where: Molecular Psychiatry
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35411039/
+
+- title: >
+    Neurobiological, familial and genetic risk factors for dimensional psychopathology in the Adolescent Brain Cognitive Development study.
+  author: >
+    Wainberg M, Jacobs G, Voineskos AN, Tripathy SJ.
+  image: 
+  where: Molecular Psychiatry
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35361904/
+
+- title: >
+   The Neuron Phenotype Ontology: A FAIR approach to Proposing and Classifying Neuronal Types.
+  author: >
+    Gillespie TH, Tripathy SJ, Sy MF, Martone ME, Hill SL.
+  image: 
+  where: Neuroinformatics
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35267146/
+
+- title: >
+    LaminaRGeneVis: a tool to visualize gene expression across the laminar architecture of the human neocortex.
+  author: >
+    Kim E, Howard D, Chen Y, Tripathy SJ, French LH.
+  image: 
+  where: Frontiers in Neuroinformatics
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35281717/
+
+- title: >
+    Reduced inhibition in depression impairs stimulus processing in human cortical microcircuits.
+  author: >
+    Yao HK, Guet-McCreight A, Mazza F, Chameh HM, Prevot TD, Griffiths J, Tripathy SJ, Valiante TA, Sibille E, Hay E.
+  image: 
+  where: Cell Reports
+  year: 2022
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/35021088/
+
+- title: >
+   Deletion of loss-of-function-intolerant genes and risk of five psychiatric disorders.
+  author: >
+    Wainberg M, Merico D, Zarrei M, Scherer SW, Tripathy SJ.
+  image: 
+  where: JAMA Psychiatry
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34851367/
+
+- title: >
+    Association of accelerometer-derived sleep measures with lifetime psychiatric diagnoses: A prospective cohort study of 68,991 participants from the UK Biobank.
+  author: >
+    Wainberg M, Jones SE, Hill SL,  Felsky D, Rivas MA, Lim ASP, Ollila HM, Tripathy SJ.
+  image: 
+  where: 
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34637446/
+
+- title: >
+    Clinical laboratory tests and five-year incidence of major depressive disorder: A prospective cohort study of 433,890 participants from the UK Biobank.
+  author: >
+    Michael Wainberg, PhD; Stefan Kloiber, MD; Breno Diniz, MD, PhD; Roger S. McIntyre, MD; Daniel Felsky, PhD; Shreejoy J. Tripathy, PhD.
+  image: 
+  where: Translational Psychiatry
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34234104/
+
+- title: >
+    Symptom dimensions of major depression in a large community-based cohort.
+  author: >
+    Wainberg M, Jones SE, Hill SL,  Felsky D, Rivas MA, Lim ASP, Ollila HM, Tripathy SJ.
+  image: 
+  where: Psychological Medicine 
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/34008483/
+
+- title: >
+    Diversity amongst human cortical pyramidal neurons revealed via their sag currents and frequency preferences.
+  author: >
+    Moradi H, Rich S, Wang L, Chen FD, Zhang L, Carlen PL, Tripathy SJ, Valiante TA.
+  image: 
+  where: Nature Communications 
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/33941783/
+
+- title: >
+   Cannabis, schizophrenia genetic risk, and psychotic experiences: A cross-sectional study of 109,308 participants from the UK Biobank.
+  author: >
+    Wainberg M, Jacobs GR, di Forti M, Tripathy SJ.
+  image: 
+  where: Translational Psychiatry
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/33837184/
+
+- title: >
+    Estimating and Correcting for Off-Target Cellular Contamination in Brain Cell Type Specific RNA-Seq Data.
+  author: >
+    Sicherman J, Newton D, Pavlidis P, Sibille E, Tripathy SJ.
+  image: 
+  where: Frontiers in Molecular Neuroscience
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/33746712/
+
+- title: >
+    Patch-seq: past, present, and future.
+  author: >
+    Lipovsek M, Bardy C, Cadwell CR, Hadley K, Kobak D, Tripathy SJ.
+  image: 
+  where: Journal of Neuroscience
+  year: 2021
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/33431632/
+
+- title: >
+    Consequences of NMDA receptor deficiency can be rescued in the adult brain.
+  author: >
+    Mielnik C, Binko M, Chen Y, Funk A, Johannsson E, Katheron I, Sivananthan N, Islam R, Milenkovic M, Horsfall W, Ross R, Groc L, Salahpour A, McCullumsmith M, Tripathy SJ, Lambe E, Ramsey AJ.
+  image: 
+  where: Molecular Psychiatry	
+  year: 2020
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/32807843/
+
+- title: >
+    Assessing the molecular overlap between human major depressive disorder and three mouse models of chronic stress.
+  author: >
+    Tripathy SJ.
+  image: 
+  where: Biological Psychiatry
+  year: 2020
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/32616203/
+  
