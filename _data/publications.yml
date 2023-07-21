@@ -43,7 +43,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/36750735/
 
-    - title: >
+- title: >
     Chrna5 is a marker of cholinergic super-responder subplate neurons in prefrontal cortex with specialized expression of nicotinic modulator proteins.
   author: >
     Venkatesan S, Chen T, Liu K, Turner EE, Tripathy SJ, Lambe EK.
@@ -131,7 +131,6 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/35754708/
 
-
 - title: >
     Multiscale neural signatures of major depressive, anxiety, and stress-related disorders.
   author: >
@@ -154,7 +153,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/35411039/
 
-    - title: >
+ - title: >
     Neurobiological, familial and genetic risk factors for dimensional psychopathology in the Adolescent Brain Cognitive Development study.
   author: >
     Wainberg M, Jacobs G, Voineskos AN, Tripathy SJ.
@@ -241,7 +240,6 @@
   repo:
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/34851367/
-
 
 - title: >
     Association of accelerometer-derived sleep measures with lifetime psychiatric diagnoses: A cross-sectional study of 89,205 participants from the UK Biobank.
@@ -384,7 +382,6 @@
     name: PubMed
     url: https://www.ncbi.nlm.nih.gov/pubmed/30177255
 
-
 - title: >
     Assessing transcriptome quality in patch-seq datasets.
   author: >
@@ -394,8 +391,6 @@
   repo:
     name: PubMed
     url: https://www.ncbi.nlm.nih.gov/pubmed/30349457
-
-
 
 - title: >
     Modeling sources of inter-laboratory variability in electrophysiological properties of mammalian neurons.
@@ -407,7 +402,6 @@
     name: PubMed
     url: https://www.ncbi.nlm.nih.gov/pubmed/29357465
 
-
 - title: >
     Cross-laboratory analysis of brain cell type specific transcriptomes with applications to bulk tissue data. 
   author: >
@@ -418,7 +412,6 @@
     name: PubMed
     url: https://www.ncbi.nlm.nih.gov/pubmed/29204516
 
-
 - title: >
     Transcriptomic correlates of neuron electrophysiological diversity. 
   author: >
@@ -428,7 +421,6 @@
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/29069078
-
 
 - title: >
     Neurodata Without Borders: Creating a Common Data Format for Neurophysiology.
@@ -449,7 +441,6 @@
   repo:
     name: PubMed
     url: http://www.ncbi.nlm.nih.gov/pubmed/27321436
-
 
 - title: >
     Brain-wide analysis of electrophysiological diversity yields novel categorization of mammalian neuron types.
