@@ -10,7 +10,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/37328865/ 
 
-    - title: >
+- title: >
     Case-control virtual histology elucidates cell types associated with cortical thickness differences in Alzheimer's disease. 
   author: >
     Kerrebijn I, Wainberg M, Zhukovsky P, Chen Y, Davie M, Felsky D, Tripathy SJ.
@@ -21,7 +21,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/37211192/
 
-    - title: >
+- title: >
     Robust differences in cortical cell type proportions across healthy human aging inferred through cross-dataset transcriptome analyses.
   author: >
     Chen Y, Hunter E, Arbabi K, Guet-McCreight A, Consens M, Felsky D, Sibille E, Tripathy SJ.
@@ -65,7 +65,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/36463630/
 
-    - title: >
+- title: >
     Sex-specific associations of cardiovascular disease with lifetime diagnosis of bipolar disorder: A cross-sectional analysis of 257,673 participants from the UK Biobank.
   author: >
     Ortiz A, Sanchez M, Abdelhack M, Schwaiger TR, Wainberg M, Tripathy SJ, Felsky D… Fiedorowicz JG.
@@ -76,7 +76,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/36162675/
 
-    - title: >
+- title: >
     An in vitro whole-cell electrophysiology dataset of human cortical neurons.
   author: >
     Howard D*, Chameh HM*, Guet-McCreight A, Hsiao HA, Vuong M, Seo YS, Shah P, Nigam A, Chen Y, Davie M, Hay E, Valiante TA*, Tripathy SJ*
@@ -87,7 +87,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/36377463/
 
-    - title: >
+- title: >
     Age-dependent increased sag current in human pyramidal neurons dampens baseline activity and noise in cortical processing.
   author: >
     Guet-McCreight A, Chameh HM, Mahallati S, Wishart M, Tripathy SJ, Valiante TA, Hay E.
@@ -98,7 +98,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/36124673/
 
-    - title: >
+- title: >
     Fragmentation of Rest Periods, Astrocyte Activation, and Cognitive Decline in Older Adults With and Without Alzheimer’s Disease.
   author: >
     Wu R, Tripathy S, Menon V, Yu L, Buchman A, Bennett D, De Jager P, Lim ASP.
@@ -109,7 +109,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/36335579/
 
-    - title: >
+- title: >
     Identification of endocannabinoid predictors of treatment outcomes in major depressive disorder: A Canadian Biomarker Integration Network for Depression (CAN-BIND) study.
   author: >
     Kim HK, Wainberg M, Zai G, Mueller D, Husain MI, Lam RW, Frey BN, Soares C, Parikh S, Milev R, Foster JA, Turecki G, Farzan F, Uher R, Mulsant BH, Kennedy S, Tripathy SJ, Kloiber S.
@@ -120,7 +120,7 @@
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/35793696/
 
-    - title: >
+- title: >
     Bulk and Single-nucleus Transcriptomics Highlights Intra-telencephalic and Somatostatin Neurons in Alzheimer’s Disease.
   author: >
     Consens M, Chen Y, Menon V, Wang Y, Schneider JA, De Jager PL, Bennett DA, Tripathy SJ, Felsky D.
@@ -132,7 +132,7 @@
     url: https://pubmed.ncbi.nlm.nih.gov/35754708/
 
 
- - title: >
+- title: >
     Multiscale neural signatures of major depressive, anxiety, and stress-related disorders.
   author: >
     Zhukovsky P., Wainberg, M., Milic M., Tripathy, S.J., Mulsant B.H., Felsky D., Voineskos, A.N.
