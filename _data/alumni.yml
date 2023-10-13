@@ -1,4 +1,31 @@
 ---
+  
+- name: Shu'ayb Simmons
+  role: MSc Student
+  program: Institute of Medical Sciences
+  photo: "images/people/Shu'ayb_headshot.jpeg"
+
+- name: Mel Davie
+  role: Research Staff
+  photo: "images/people/mel_davie.png"
+    
+- name: Michael Wainberg
+  role: Postdoctoral Fellow
+  photo: "images/people/michael_wainberg.jpg"
+
+- name: Afifa Aleem
+  role: Masters Student Intern
+  program: Humber College Research Analyst Training Program 
+  photo: "images/people/afifa_headshot.jpg"
+
+- name: Hailey Xia
+  role: Undergraduate student
+  photo: "images/people/hailey_headshot.jpg"
+
+- name: Selen Bayram
+  role: Undergraduate student
+  photo: "images/people/selen_headshot.png"
+  
 - name: Radhika Mahajan
   role: MHSc Student Intern
   program: Medical Genomics

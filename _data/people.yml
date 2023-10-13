@@ -10,15 +10,7 @@
 - name: Dan Kiss
   role: Research Staff
   photo: "images/people/dan_kiss_headshot.jpg"
-  
-- name: Mel Davie
-  role: Research Staff
-  photo: "images/people/mel_davie.png"
-    
-- name: Michael Wainberg
-  role: Postdoctoral Fellow
-  photo: "images/people/michael_wainberg.jpg"
-  
+
 - name: Keon Arbabi
   role: PhD Student
   program: Institute of Medical Sciences
@@ -28,26 +20,28 @@
   role: PhD Student
   program: Physiology
   photo: "images/people/nuo_xu.jpg"
-  
-- name: Shu'ayb Simmons
-  role: MSc Student
-  program: Institute of Medical Sciences
-  photo: "images/people/Shu'ayb_headshot.jpeg"
 
 - name: Xiaolin Zhou
-  role: Masters Student Intern
-  program: Biomedical Engineering  
+  role: Masters Student
+  program: Institute of Medical Sciences
   photo: "images/people/xiaolin_headshot.jpg"
 
-- name: Afifa Aleem
-  role: Masters Student Intern
-  program: Humber College Research Analyst Training Program 
-  photo: "images/people/afifa_headshot.jpg"
+- name: Thomas DeLong
+  role: Masters Student
+  program: Institute of Medical Sciences
+  photo: "images/people/thomas_headshot.jpg"
 
-- name: Hailey Xia
-  role: Undergraduate student
-  photo: "images/people/hailey_headshot.jpg"
+- name: Jiaming Weng
+  role: Undergraduate Student
+  program: Bioinformatics and Computational biology
+  photo: "images/people/jiaming_headshot.jpg"
 
-- name: Selen Bayram
-  role: Undergraduate student
-  photo: "images/people/selen_headshot.png"
+- name: Nandita Jayadevan
+  role: Undergraduate Student
+  program: Human Biology
+  photo: "images/people/nandita_headshot.jpg"
+
+- name: Timothy Son
+  role: Undergraduate Student
+  program: Bioinformatics and Computational biology
+  photo: "images/people/timothy_headshot.jpg"
