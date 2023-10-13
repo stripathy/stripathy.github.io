@@ -1,5 +1,4 @@
 ---
-  
 - name: Shu'ayb Simmons
   role: MSc Student
   program: Institute of Medical Sciences
@@ -8,7 +7,7 @@
 - name: Mel Davie
   role: Research Staff
   photo: "images/people/mel_davie.png"
-    
+
 - name: Michael Wainberg
   role: Postdoctoral Fellow
   photo: "images/people/michael_wainberg.jpg"
@@ -25,17 +24,17 @@
 - name: Selen Bayram
   role: Undergraduate student
   photo: "images/people/selen_headshot.png"
-  
+
 - name: Radhika Mahajan
   role: MHSc Student Intern
   program: Medical Genomics
   photo: "images/people/radhika_mahajan.jfif"
-  
+
 - name: Jessica Xia
   role: Undergraduate Student
   program: Now PhD student in UofT Molecular Genetics
   photo: "images/people/jessica_headshot.jpeg"
-  
+
 - name: Trusha Tullu
   role: Undergraduate Student
   program: Life Sciences
