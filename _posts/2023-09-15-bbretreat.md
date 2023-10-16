@@ -14,9 +14,9 @@ The lab joined [John Griffith's](https://www.grifflab.com/) and [Andreea Diacone
 ![dan_presenting](/images/lab_fun/bb_retreat_2023/dan_presenting.jpg "dan_presenting"){:height="400px"}
 ![shreejoy_presenting](/images/lab_fun/bb_retreat_2023/shreejoy_presenting.jpg "shreejoy_presenting"){:height="400px"}
 ![keon_presenting](/images/lab_fun/bb_retreat_2023/keon_presenting.jpg "keon_presenting"){:height="400px"}
+![spikeball](/images/lab_fun/bb_retreat_2023/spikeball.jpg "spikeball"){:height="400px"}
 
 ![by_fire](/images/lab_fun/bb_retreat_2023/by_fire.jpg "by_fire"){:height="400px"}
-![spikeball](/images/lab_fun/bb_retreat_2023/spikeball.jpg "spikeball"){:height="400px"}
 ![volleyball](/images/lab_fun/bb_retreat_2023/volleyball.jpg "volleyball"){:height="400px"}
 
 ![thomas_cooking](/images/lab_fun/bb_retreat_2023/thomas_cooking.png "thomas_cooking"){:height="400px"}
