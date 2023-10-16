@@ -6,7 +6,7 @@ excerpt: >
   KCNI retreat at Billy Bear resort in Muskoka
 ---
 
-The lab joined [John Griffith's](https://www.grifflab.com/) and [Andreea Diaconescu's[(https://cognemo.com/) labs from KCNI at a super fun retreat at Billy Bear Resort, outside of Huntsville in the Muskoka Region. We had a great time talking science, cooking great meals, hiking, doing outdoor activies, and hanging out by the fire. 
+The lab joined [John Griffith's](https://www.grifflab.com/) and [Andreea Diaconescu's](https://cognemo.com/) labs from KCNI at a super fun retreat at Billy Bear Resort, outside of Huntsville in the Muskoka Region. We had a great time talking science, cooking great meals, hiking, doing outdoor activies, and hanging out by the fire. 
 
 ![triplab_photo_bb_2023](/images/lab_fun/bb_retreat_2023/triplab_photo_bb_2023.jpg "triplab_photo_bb_2023"){:height="400px"}
 ![centre_photo](/images/lab_fun/bb_retreat_2023/centre_photo.jpg "centre_photo"){:height="400px"}
