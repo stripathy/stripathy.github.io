@@ -14,7 +14,7 @@ The lab joined John Griffith's and Andreea Diaconescu's labs from KCNI at a supe
 ![dan_presenting](/images/lab_fun/bb_retreat_2023/dan_presenting.jpg "dan_presenting"){:height="400px"}
 ![pre_hikie](/images/lab_fun/bb_retreat_2023/pre_hikie.jpg "pre_hikie"){:height="400px"}
 
-![thomas_cooking](/images/lab_fun/bb_retreat_2023/thomas_cooking.jpg "thomas_cooking"){:height="400px"}
+![thomas_cooking](/images/lab_fun/bb_retreat_2023/thomas_cooking.png "thomas_cooking"){:height="400px"}
 ![tacos_yum](/images/lab_fun/bb_retreat_2023/tacos_yum.jpg "tacos_yum"){:height="400px"}
 ![seeding_peppers](/images/lab_fun/bb_retreat_2023/seeding_peppers.jpg "seeding_peppers"){:height="400px"}
 ![triplab_eating](/images/lab_fun/bb_retreat_2023/triplab_eating.jpg "triplab_eating"){:height="400px"}
