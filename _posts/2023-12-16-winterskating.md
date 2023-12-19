@@ -10,11 +10,11 @@ For our winter social event, the lab went ice skating at Toronto's iconic Nathan
 
 Huge thanks to Dan for hosting us all at his place afterwards and thanks to Dan's partner Luba for making a yummy DNA-themed cake! 
 
-![lab_photo_winter_2023](/images/lab_fun/winter_2023/lab_photo_winter_2023.jpg "lab_photo_winter_2023"){:height="400px"}
-![ugrads_2023](/images/lab_fun/winter_2023/ugrads_2023.jpg "ugrads_2023"){:height="400px"}
+![lab_photo_winter_2023](/images/lab_fun/winter_2023/lab_photo_winter_2023.jpg "lab_photo_winter_2023"){:height="600px"}
+![ugrads_2023](/images/lab_fun/winter_2023/ugrads_2023.jpg "ugrads_2023"){:height="600px"}
+
 ![np_keon_apt](/images/lab_fun/winter_2023/np_keon_apt.jpg "np_keon_apt"){:height="400px"}
 ![np_side_view](/images/lab_fun/winter_2023/np_side_view.jpg "np_side_view"){:height="400px"}
-
 
 ![lab_selfie_skating](/images/lab_fun/winter_2023/lab_selfie_skating.jpg "lab_selfie_skating"){:height="400px"}
 ![sjoy_selfie_np](/images/lab_fun/winter_2023/sjoy_selfie_np.jpg "sjoy_selfie_np"){:height="400px"}
