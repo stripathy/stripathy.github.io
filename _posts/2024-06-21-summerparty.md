@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  TripLab summary party at Christie Pits Park
+title:  TripLab celebrates Jiaming's graduation and meets Shreejoy's new baby
 date:   2024-06-21
 excerpt: >
   TripLab celebrates Jiaming's graduation and meets Shreejoy's baby
