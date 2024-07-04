@@ -11,6 +11,10 @@
   role: Research Staff
   photo: "images/people/dan_kiss_headshot.jpg"
 
+- name: Shahrzad Ghazisaeidi
+  role: Post-doc
+  photo: "images/people/shahrzad_headshot.jpg"
+
 - name: Keon Arbabi
   role: PhD Student
   program: Institute of Medical Sciences
@@ -20,6 +24,11 @@
   role: PhD Student
   program: Physiology
   photo: "images/people/nuo_xu.jpg"
+
+- name: Nicole Endresz
+  role: PhD Student
+  program: Physiology
+  photo: "images/people/nicole_headshot.jpeg"
 
 - name: Xiaolin Zhou
   role: Masters Student
