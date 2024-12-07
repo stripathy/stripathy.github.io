@@ -1,25 +1,25 @@
 ---
 - name: Jiaming Weng
-  role: Undergraduate Student
   when: Sept 2023 - May 2024
+  role: Undergraduate Student
   program: Now Bioinformatics PhD student at UCSD
   photo: "images/people/jiaming_headshot.png"
 
-- name: Nandita Jayadevan
-  role: Undergraduate Student
+- name: Nandita Jayadevan  
   when: Sept 2023 - May 2024
+  role: Undergraduate Student
   program: Now Human Biology ugrad at UofT
   photo: "images/people/nandita_headshot.jpg"
 
 - name: Timothy Son
-  role: Undergraduate Student
   when: Sept 2023 - Aug 2024
+  role: Undergraduate Student
   program: Now BCB ugrad at UofT
   photo: "images/people/timothy_headshot.jpg"
 
 - name: Shay Simmons
-  role: MSc Student
   when: Sept 2021 - Aug 2023
+  role: MSc Student
   program: Now Lead, Health Equity and Systems Transformation at Ontario Health
   photo: "images/people/Shu'ayb_headshot.jpeg"
 
