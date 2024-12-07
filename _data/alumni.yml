@@ -1,15 +1,38 @@
 ---
-- name: Shu'ayb Simmons
+- name: Jiaming Weng
+  role: Undergraduate Student
+  when: Sept 2023 - May 2024
+  program: Now Bioinformatics PhD student at UCSD
+  photo: "images/people/jiaming_headshot.png"
+
+- name: Nandita Jayadevan
+  role: Undergraduate Student
+  when: Sept 2023 - May 2024
+  program: Now Human Biology ugrad at UofT
+  photo: "images/people/nandita_headshot.jpg"
+
+- name: Timothy Son
+  role: Undergraduate Student
+  when: Sept 2023 - Aug 2024
+  program: Now BCB ugrad at UofT
+  photo: "images/people/timothy_headshot.jpg"
+  
+- name: Shay Simmons
   role: MSc Student
-  program: Institute of Medical Sciences
+  when: Sept 2021 - Aug 2023
+  program: Now Lead, Health Equity and Systems Transformation at Ontario Health
   photo: "images/people/Shu'ayb_headshot.jpeg"
 
 - name: Mel Davie
-  role: Research Staff
+  when: April 2021 - Aug 2023
+  role: Research Analyst
+  program: Now Molecular Genetics PhD student at UofT
   photo: "images/people/mel_davie.png"
 
 - name: Michael Wainberg
+  when: April 2020 - Aug 2023
   role: Postdoctoral Fellow
+  program: Now Principal Investigator, Lunenfeld Tanenbaum Research Institute, Mt. Sinai Hospital Toronto
   photo: "images/people/michael_wainberg.jpg"
 
 - name: Afifa Aleem
