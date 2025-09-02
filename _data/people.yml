@@ -21,6 +21,16 @@
   program: Physiology
   photo: "images/people/nuo_xu.jpg"
 
+- name: Xiaolin Zhou
+  role: PhD Student
+  program: Institute of Medical Sciences
+  photo: "images/people/xiaolin_headshot.jpg"
+
+- name: Thomas DeLong
+  role: PhD Student
+  program: Institute of Medical Sciences
+  photo: "images/people/thomas_headshot.png"
+
 - name: Nicole Endresz
   role: PhD Student
   program: Physiology
@@ -35,16 +45,6 @@
   role: PhD Student
   program: Pharmacology and Toxicology
   photo: "images/people/grinal_headshot.jfif"
-
-- name: Xiaolin Zhou
-  role: Masters Student
-  program: Institute of Medical Sciences
-  photo: "images/people/xiaolin_headshot.jpg"
-
-- name: Thomas DeLong
-  role: Masters Student
-  program: Institute of Medical Sciences
-  photo: "images/people/thomas_headshot.png"
 
 - name: Hugo Hudson
   role: Undergraduate Student
