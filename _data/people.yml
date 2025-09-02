@@ -3,13 +3,9 @@
   role: Principal Investigator
   photo: "images/headshot_sept_2017.JPG"
 
-- name: Derek Howard
+- name: Ellie Hogan
   role: Research Staff
-  photo: "images/people/derek_ml.jpeg"
-
-- name: Dan Kiss
-  role: Research Staff
-  photo: "images/people/dan_kiss_headshot.jpg"
+  photo: "images/people/ellie_headshot.jpeg"
 
 - name: Shahrzad Ghazisaeidi
   role: Post-doc
@@ -54,5 +50,10 @@
   role: Undergraduate Student
   program: Cell & Molecular Biology and Genome Biology
   photo: "images/people/hugo_headshot.jfif"
+
+- name: Vicky Wu
+  role: Undergraduate Student
+  program: Neuroscience and Statistics
+  photo: "images/people/vicky_wu_headshot.jpeg"
 
 

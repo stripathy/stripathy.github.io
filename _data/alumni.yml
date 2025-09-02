@@ -1,4 +1,15 @@
 ---
+- name: Derek Howard
+  when: Jan 2021 - Jan 2025
+  role: Research Staff
+  program: Now Data Scientist & Bioinformatician at Bridge Informatics
+  photo: "images/people/derek_ml.jpeg"
+
+- name: Dan Kiss
+  when: Jan 2023 - July 2025
+  role: Research Staff
+  photo: "images/people/dan_kiss_headshot.jpg"
+
 - name: Jiaming Weng
   when: Sept 2023 - May 2024
   role: Undergraduate Student
