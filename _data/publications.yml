@@ -1,5 +1,258 @@
 ---
 - title: >
+    Autism spectrum disorder trios from consanguineous populations are enriched for rare homozygous variants, identifying 32 new candidate genes.
+  author: >
+    Harripaul R, Rabia A, Vasli N, Mikhailov A, Rodrigues A, Pastore SF, Muhammad T, Madanagopal TT, Hashmi AN, Tran C, Stan C, Aw K, Zai CC, Azam M, Mahmood S, Heidari A, Qamar R, French L, Tripathy SJ, Agha Z, Iqbal M, Ghadami M, Santangelo SL, Bozorgmehr B, Al Ayadhi L, Sasanfar R, Maqbool S, Hassan A, Knowles JA, Ayub M, Vincent JB.
+  image:
+  where: Scientific Reports
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41598-026-44288-9
+
+- title: >
+    Molecular architecture of human dermal sleeping nociceptors.
+  author: >
+    Korner J, Howard D, Solinski HJ, Mancilla Moreno M, Haag N, Fiebig A, Maxion A, Bhuiyan SA, Toklucu I, Bott RA, Sankaranarayanan I, Tavares-Ferreira D, Shiers S, Inturi NN, Eberhardt E, Ernst L, Bonaguro L, Schulte-Schrepping J, Beyer MD, Stiehl T, Renthal W, Kurth I, Tigerholm J, Serra J, Price TJ, Schmelz M, Namer B, Tripathy SJ*, Lampert A*.
+  image:
+  where: Cell
+  year: 2026
+  repo:
+    name: PubMed
+    url: https://pubmed.ncbi.nlm.nih.gov/41643676/
+
+- title: >
+    A Novel Polygenic Risk Score Indexing Somatostatin-Expressing Inhibitory Neurons Predicts Somatostatin-Expressing Cell Proportions and Severity of Symptoms in Late-Life Depression.
+  author: >
+    Dos Santos FC, Zhou X, Clifford KP, Gonzalez Segura A, Syeda AS, Felsky D, Lenze EJ, Mulsant BH, Tripathy SJ, Sibille E, Nikolova YS.
+  image:
+  where: Biological Psychiatry Global Open Science
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1016/j.bpsgos.2025.100685
+
+- title: >
+    Linking Age Changes in Human Cortical Microcircuits to Impaired Brain Function and EEG Biomarkers.
+  author: >
+    Guet-McCreight A, Tripathy SJ, Sibille E, Hay E.
+  image:
+  where: Aging Cell
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1111/acel.70329
+
+- title: >
+    Cortical GABAergic Neuron Dysregulation in Schizophrenia Is Age Dependent.
+  author: >
+    Kiss D, Zhou X, Endresz N, Arbabi K, Gonzalez Segura A, Felsky D, Diaconescu AO, Sibille E, Tripathy SJ.
+  image:
+  where: Biological Psychiatry Global Open Science
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1016/j.bpsgos.2025.100606
+
+- title: >
+    Spatial dynamics of cellular and molecular plasticity in the maternal and postpartum mouse brain.
+  author: >
+    Arbabi K*, Ghazisaeidi S*, Kukreja B, Feng MY, Hudson H, Fafouti ME, Galea L, Tripathy SJ, Kalish BT.
+  image:
+  where: bioRxiv
+  year: 2026
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/10.64898/2026.01.03.697464v1
+
+- title: >
+    Long-read proteogenomic atlas of human neuronal differentiation reveals isoform diversity informing neurodevelopmental risk mechanisms.
+  author: >
+    Xu N, Rynard KM, Radley E, Tian A, Arshad M, Long C, Li J, Luo H, Hogan E, Fafouti ME, Davie M, Naimi F, Li Y, Calarco JA, Trost B, Muffat J, Lee HO, Lipshitz HD, Smibert CA, Tripathy SJ.
+  image:
+  where: bioRxiv
+  year: 2025
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/10.64898/2025.12.16.693263v1
+
+- title: >
+    Hyperpolarization-activated cation channel mediated intrinsic plasticity changes underlie the malleability of within cell-type electrophysiological heterogeneity.
+  author: >
+    Moradi Chameh H, Falby M, Yang Y, Movahed M, Arbabi K, Sarathy C, Tripathy SJ, Zhang L, Lefebvre J, Valiante TA.
+  image:
+  where: bioRxiv
+  year: 2025
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/10.1101/2025.06.09.658517v2
+
+- title: >
+    Sleep, pericyte subtypes and cognitive decline in adults with and without Alzheimer’s disease.
+  author: >
+    Hamid M, Saha Detroja T, Tripathy SJ, Menon V, Xu J, Yu L, Wang Y, Buchman AS, Bennett DA, De Jager PL, Lim ASP.
+  image:
+  where: Brain
+  year: 2025
+  repo:
+    name: DOI
+    url: https://doi.org/10.1093/brain/awaf161
+
+- title: >
+    ASiDentify (ASiD): a machine learning model to predict new autism spectrum disorder risk genes.
+  author: >
+    Rynard KM, Han K, Wainberg M, Calarco JA, Lee HO, Lipshitz HD, Smibert CA, Tripathy SJ.
+  image:
+  where: Genetics
+  year: 2025
+  repo:
+    name: DOI
+    url: https://doi.org/10.1093/genetics/iyaf040
+
+- title: >
+    A Transcriptomic Signature of Depressive Symptoms in Late Life.
+  author: >
+    Matan-Lithwick S, Misztal MC, Yang M, DeLong T, Tripathy SJ, Dunn JT, Bennett DA, De Jager PL, Wang Y, Fisher DW, Dong H, Felsky D.
+  image:
+  where: Biological Psychiatry Global Open Science
+  year: 2025
+  repo:
+    name: DOI
+    url: https://doi.org/10.1016/j.bpsgos.2025.100448
+
+- title: >
+    Spike frequency adaptation in primate lateral prefrontal cortex neurons results from interplay between intrinsic properties and circuit dynamics.
+  author: >
+    Koch NA, Corrigan BW, Feyerabend M, Gulli RA, Jimenez-Sosa MS, Abbass M, Sunstrum JK, Matovic S, Roussy M, Luna R, Mestern SA, Mahmoudian B, Vijayraghavan S, Igarashi H, Pradeepan KS, Assis WJ, Pruszynski JA, Tripathy SJ, Staiger JF, Gonzalez-Burgos G, Neef A, Treue S, Everling S, Inoue W, Khadra A, Martinez-Trujillo JC.
+  image:
+  where: Cell Reports
+  year: 2025
+  repo:
+    name: DOI
+    url: https://doi.org/10.1016/j.celrep.2024.115159
+
+- title: >
+    Molecular Signatures of Early-Onset Bipolar Disorder and Schizophrenia: Transcriptomic and Machine-Learning Insights into Calcium and cAMP Signaling, Including Sex-Specific Patterns.
+  author: >
+    Afjeh SS, Dey S, Kiss D, Sanches M, Dos Santos F, Pouget JG, Akbarian N, Tripathy SJ, Goncalves VF, Kennedy JL.
+  image:
+  where: International Journal of Molecular Sciences
+  year: 2025
+  repo:
+    name: DOI
+    url: https://doi.org/10.3390/ijms262412109
+
+- title: >
+    Single neuron diversity supports area functional specialization along the visual cortical pathways.
+  author: >
+    Feyerabend M*, Pommer S*, Jimenez-Sosa MS, Rachel J, Sunstrum JK, Preuss F, Mestern S, Hinkel R, Mietsch M, Vijayraghavan S, Everling S, Treue S, Arnsten AF, Lewis DA, Tripathy SJ, Gonzalez-Burgos G, Inoue W, Neef A, Staiger JF, Martinez-Trujillo JC.
+  image:
+  where: bioRxiv
+  year: 2024
+  repo:
+    name: bioRxiv
+    url: https://www.biorxiv.org/content/10.1101/2024.12.13.628359v2
+
+- title: >
+    Neonatal Brain Injury Triggers Niche-Specific Changes to Cellular Biogeography.
+  author: >
+    Tahmasian N, Feng MY, Arbabi K, Rusu B, Cao W, Ning S, Leung JWH, Kukreja B, Wainberg M, Tripathy SJ*, Kalish BT*.
+  image:
+  where: eNeuro
+  year: 2024
+  repo:
+    name: DOI
+    url: https://doi.org/10.1523/ENEURO.0224-24.2024
+
+- title: >
+    Reported race-associated differences in control and schizophrenia post-mortem brain transcriptomes implicate stress-related and neuroimmune pathways.
+  author: >
+    Simmons S, Arbabi K, Felsky D, Wainberg M, Tripathy SJ.
+  image:
+  where: Frontiers in Molecular Neuroscience
+  year: 2024
+  repo:
+    name: DOI
+    url: https://doi.org/10.3389/fnmol.2024.1450664
+
+- title: >
+    Transcriptomic pathology of neocortical microcircuit cell types across psychiatric disorders.
+  author: >
+    Arbabi K*, Newton DF*, Oh H, Davie MC, Lewis DA, Tripathy SJ*, Sibille E*.
+  image:
+  where: Molecular Psychiatry
+  year: 2024
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41380-024-02707-1
+
+- title: >
+    CHRNA5 links chandelier cells to severity of amyloid pathology in aging and Alzheimer’s disease.
+  author: >
+    Rybnicek J, Chen Y, Milic M, De Jager PL, Schneider JA, Bennett DA, Tripathy SJ*, Felsky D*, Lambe EK*.
+  image:
+  where: Translational Psychiatry
+  year: 2024
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41398-024-02785-3
+
+- title: >
+    Genetic architecture of the structural connectome.
+  author: >
+    Wainberg M, Forde NJ, Salim Mansour S, Medland SE, Hawco C, Tripathy SJ.
+  image:
+  where: Nature Communications
+  year: 2024
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41467-024-46023-2
+
+- title: >
+    Integrating single-cell and spatially resolved transcriptomic strategies to survey the astrocyte response to stroke in male mice.
+  author: >
+    Scott EY, Safarian N, Ali S, Dryden M, Tockovska T, Casasbuenas DL, Peng J, Emerson D, Tripathy SJ*, Yuzwa S*, Wheeler A*, Faiz M*.
+  image:
+  where: Nature Communications
+  year: 2024
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41467-024-45821-y
+
+- title: >
+    Opposing brain signatures of sleep in task-based and resting-state conditions.
+  author: >
+    Abdelhack M, Zhukovsky P, Milic M, Harita S, Wainberg M, Tripathy SJ, Griffiths JD, Hill SL, Felsky D.
+  image:
+  where: Nature Communications
+  year: 2023
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41467-023-43737-7
+
+- title: >
+    Distinctive Biophysical Features of Human Cell-types: Insights from Studies of Neurosurgically Resected Brain Tissue.
+  author: >
+    Moradi Chameh H, Falby M, Movahed M, Arbabi K, Rich S, Zhang L, Lefebvre J, Tripathy SJ, De Pitta M, Valiante TA.
+  image:
+  where: Frontiers in Synaptic Neuroscience
+  year: 2023
+  repo:
+    name: DOI
+    url: https://doi.org/10.3389/fnsyn.2023.1250834
+
+- title: >
+    Investigating microglia-neuron crosstalk by characterizing microglial contamination in human and mouse Patch-seq datasets.
+  author: >
+    Arbabi K, Jiang Y, Howard D, Nigam A, Inoue W, Gonzalez-Burgos G, Felsky D, Tripathy SJ.
+  image:
+  where: iScience
+  year: 2023
+  repo:
+    name: DOI
+    url: https://doi.org/10.1016/j.isci.2023.107329
+
+- title: >
     Shared genetic risk loci between Alzheimer’s disease and related dementias, Parkinson’s disease and amyotrophic lateral sclerosis.
   author: >
     Wainberg M, Andrews SJ,<u>Tripathy SJ</u>

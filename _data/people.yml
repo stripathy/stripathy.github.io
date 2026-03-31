@@ -11,6 +11,10 @@
   role: Post-doc
   photo: "images/people/shahrzad_headshot.jpg"
 
+- name: Dina Issakova
+  role: Post-doc
+  photo: "images/people/dina_headshot.jpg"
+
 - name: Keon Arbabi
   role: PhD Student
   program: Institute of Medical Sciences
@@ -50,6 +54,11 @@
   role: Undergraduate Student
   program: Cell & Molecular Biology and Genome Biology
   photo: "images/people/hugo_headshot.jfif"
+
+- name: Michael Dai
+  role: MSc Student
+  program: Physiology
+  photo: "images/people/michael_dai_headshot.jpeg"
 
 - name: Vicky Wu
   role: Undergraduate Student
