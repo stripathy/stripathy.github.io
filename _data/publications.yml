@@ -1,5 +1,16 @@
 ---
 - title: >
+    GABAergic interneurons in local circuits of primate prefrontal cortex.
+  author: >
+    Pommer S, Lewis DA, Krienen F, Feyerabend M, Rico B, Tripathy SJ, Martinez-Trujillo J, Gonzalez-Burgos G, Neef A, Staiger JF.
+  image:
+  where: Biological Psychiatry
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1016/j.biopsych.2026.09.012
+
+- title: >
     Selective depletion of upper-layer somatostatin interneuron subtypes in schizophrenia.
   author: >
     Endresz N, Fafouti ME, Arbabi K, Zhou X, DeLong T, Gonzalez-Burgos G, Duncan L, Sibille E, Tripathy SJ.
@@ -46,7 +57,7 @@
 - title: >
     Intrinsic neuronal diversity as a substrate for cortical area specialization in primate vision.
   author: >
-    Feyerabend M, Pommer S, Mestern S, Jimenez-Sosa MS, Rachel J, Sunstrum J, Preuss F, Khatibi VA, Hinkel R, Mietsch M, Vijayraghavan S, Everling S, Treue S, Arnsten AFT, Lewis DA, Tripathy SJ, Gonzalez-Burgos G, Inoue W, Neef A, Staiger JF, Martinez-Trujillo J.
+    Feyerabend M*, Pommer S*, Mestern S, Jimenez-Sosa MS, Rachel J, Sunstrum J, Preuss F, Khatibi VA, Hinkel R, Mietsch M, Vijayraghavan S, Everling S, Treue S, Arnsten AFT, Lewis DA, Tripathy SJ, Gonzalez-Burgos G, Inoue W, Neef A, Staiger JF, Martinez-Trujillo J.
   image:
   where: Nature Communications
   year: 2026
@@ -185,17 +196,6 @@
   repo:
     name: DOI
     url: https://doi.org/10.3390/ijms262412109
-
-- title: >
-    Single neuron diversity supports area functional specialization along the visual cortical pathways.
-  author: >
-    Feyerabend M*, Pommer S*, Jimenez-Sosa MS, Rachel J, Sunstrum JK, Preuss F, Mestern S, Hinkel R, Mietsch M, Vijayraghavan S, Everling S, Treue S, Arnsten AF, Lewis DA, Tripathy SJ, Gonzalez-Burgos G, Inoue W, Neef A, Staiger JF, Martinez-Trujillo JC.
-  image:
-  where: bioRxiv
-  year: 2024
-  repo:
-    name: bioRxiv
-    url: https://www.biorxiv.org/content/10.1101/2024.12.13.628359v2
 
 - title: >
     Neonatal Brain Injury Triggers Niche-Specific Changes to Cellular Biogeography.
@@ -506,28 +506,6 @@
     url: https://pubmed.ncbi.nlm.nih.gov/35267146/
 
 - title: >
-    Neurobiological, familial and genetic risk factors for dimensional psychopathology in the Adolescent Brain Cognitive Development study. 
-  author: >
-    Wainberg, M., Jacobs, G.R., Voineskos, A.N. and Tripathy, S.J.
-  image: ../images/biol_psych.jpeg
-  where: Molecular Psychiatry
-  year: 2022
-  repo:
-    name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/35361904/
-
-- title: >
-    Predicting causal genes from psychiatric genome-wide association studies using high-level etiological knowledge. 
-  author: >
-    Wainberg, M., Merico, D., Keller, M.C., Fauman, E.B. and Tripathy, S.J.
-  image: ../images/biol_psych.jpeg
-  where: Molecular Psychiatry
-  year: 2022
-  repo:
-    name: PubMed
-    url: https://pubmed.ncbi.nlm.nih.gov/35411039/
-
-- title: >
     Deletion of Loss-of-Function–Intolerant Genes and Risk of 5 Psychiatric Disorders.
   author: >
     Wainberg M, Merico D, Huguet G, Zarrei M, Jacquemont S, Scherer SW, Tripathy SJ. 
@@ -648,16 +626,6 @@
   repo:
     name: PubMed
     url: https://pubmed.ncbi.nlm.nih.gov/32341540
-
-- title: >
-    The Neuron Phenotype Ontology: A FAIR Approach to Proposing and Classifying Neuronal Types.
-  author: >
-    Gillespie TH, <u>Tripathy SJ</u>, Sy MF, Martone ME, Hill SL
-  image: ../images/biol_psych.jpeg
-  year: 2020
-  repo:
-    name: bioRxiv
-    url: https://www.biorxiv.org/content/10.1101/2020.09.01.278879v1.abstract
 
 - title: >
     Transcriptomic correlates of electrophysiological and morphological diversity within and across neuron cell types.
