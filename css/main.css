@@ -118,6 +118,14 @@ footer .social-media-list li {
     display: block;
     height: 200px;
     width: 200px;
+    object-fit: cover;
+    object-position: center top;
+}
+
+/* flex instead of floats so cards of uneven height don't leave gaps */
+.person-grid {
+    display: flex;
+    flex-wrap: wrap;
 }
 
 img.pub-image {

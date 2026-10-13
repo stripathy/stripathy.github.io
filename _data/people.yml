@@ -7,18 +7,9 @@
   role: Research Staff
   photo: "images/people/ellie_headshot.jpeg"
 
-- name: Shahrzad Ghazisaeidi
-  role: Post-doc
-  photo: "images/people/shahrzad_headshot.jpg"
-
 - name: Dina Issakova
   role: Post-doc
   photo: "images/people/dina_headshot.jpg"
-
-- name: Keon Arbabi
-  role: PhD Student
-  program: Institute of Medical Sciences
-  photo: "images/people/KeonPP.jpg"
 
 - name: Nuo Xu
   role: PhD Student
@@ -68,6 +59,7 @@
 - name: Emma Hong
   role: Undergraduate Student
   program: Bioinformatics and Computational Biology
+  photo: "images/people/kcni_logo.jpg"
 
 - name: Maia Edney
   role: Undergraduate Student
