@@ -72,6 +72,7 @@
 
 - name: Hailey Xia
   role: Undergraduate student
+  program: Now Bioinformatics research student at the Wellcome-MRC Cambridge Stem Cell Institute
   photo: "images/people/hailey_headshot.jpg"
 
 - name: Selen Bayram
@@ -90,7 +91,7 @@
 
 - name: Trusha Tullu
   role: Undergraduate Student
-  program: Life Sciences
+  program: Now MSc student in the Institute of Medical Science at SickKids
   photo: "images/people/trusha_headshot.png"
   
 - name: Young Seok Seo
@@ -115,6 +116,7 @@
 
 - name: Nickie Safarian
   role: Postdoctoral Fellow
+  program: Now post-doc at The Centre for Applied Genomics (TCAG), SickKids
   photo: "images/people/nickie_headshot.jpg"
 
 - name: Nayeon Hyun
