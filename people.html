@@ -10,8 +10,10 @@ layout: default
         {% for person in site.data.people %}
 
         <div class="person col-md-4 col-sm-6 col-xs-12">
+            {% if person.photo %}
             <img src="{{ person.photo }}"
                  alt="photo" class="person-photo img-circle">
+            {% endif %}
 
             <h3 class="person-role">{{ person.name }}</h3>
             <p class="person-role">{{ person.role }}
@@ -50,8 +52,10 @@ layout: default
         {% for person in site.data.collaborators %}
 
         <div class="person col-md-4 col-sm-6 col-xs-12">
+            {% if person.photo %}
             <img src="{{ person.photo }}"
                  alt="photo" class="person-photo img-circle">
+            {% endif %}
 
            <p class="person-role">{{ person.name }}
             <br>{{ person.program }}

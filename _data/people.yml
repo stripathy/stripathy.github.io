@@ -50,11 +50,6 @@
   program: Pharmacology and Toxicology
   photo: "images/people/grinal_headshot.jfif"
 
-- name: Hugo Hudson
-  role: Undergraduate Student
-  program: Cell & Molecular Biology and Genome Biology
-  photo: "images/people/hugo_headshot.jfif"
-
 - name: Michael Dai
   role: MSc Student
   program: Physiology
@@ -65,4 +60,16 @@
   program: Neuroscience and Statistics
   photo: "images/people/vicky_wu_headshot.jpeg"
 
+- name: Erin Kim
+  role: Undergraduate Student
+  program: Computer Science
+  photo: "images/people/erin_kim_headshot.jpg"
 
+- name: Emma Hong
+  role: Undergraduate Student
+  program: Bioinformatics and Computational Biology
+
+- name: Maia Edney
+  role: Undergraduate Student
+  program: Neuroscience
+  photo: "images/people/maia_edney_headshot.jpg"

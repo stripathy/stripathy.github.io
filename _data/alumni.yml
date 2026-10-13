@@ -1,4 +1,10 @@
 ---
+- name: Hugo Hudson
+  when: Dec 2024 - 2026
+  role: Undergraduate Student
+  program: Now post-bac at the Allen Institute for Brain Science
+  photo: "images/people/hugo_headshot.jfif"
+
 - name: Derek Howard
   when: Jan 2021 - Jan 2025
   role: Research Staff
