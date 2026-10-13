@@ -1,5 +1,60 @@
 ---
 - title: >
+    Selective depletion of upper-layer somatostatin interneuron subtypes in schizophrenia.
+  author: >
+    Endresz N, Fafouti ME, Arbabi K, Zhou X, DeLong T, Gonzalez-Burgos G, Duncan L, Sibille E, Tripathy SJ.
+  image:
+  where: bioRxiv
+  year: 2026
+  repo:
+    name: bioRxiv
+    url: https://doi.org/10.64898/2026.09.18.752621
+
+- title: >
+    Oligodendrocyte dysfunction in human age-related cognitive decline.
+  author: >
+    Craig GA, Merour E, Seeker LA, Haughian AJ, Arbabi K, Rose J, Hoffmann A, Thapar J, Corsinotti A, Mitchell S, Corley J, Shenkin SD, Smith C, Spires-Jones TL, Sun LO, Cox SR, Williams A, Tripathy SJ, Popko B, Miron VE.
+  image:
+  where: Nature Medicine
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41591-026-04608-y
+
+- title: >
+    Long-read proteogenomic atlas of human neuronal differentiation reveals isoform diversity informing neurodevelopmental risk mechanisms.
+  author: >
+    Xu N, Rynard KM, Radley E, Tian A, Arshad M, Long C, Ly J, Luo H, Hogan E, Fafouti ME, Davie M, Naimi F, Li Y, Calarco JA, Trost B, Muffat J, Lee HO, Lipshitz HD, Smibert CA, Tripathy SJ.
+  image:
+  where: Nature Communications
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41467-026-76675-1
+
+- title: >
+    Dorsolateral Prefrontal Cortex Circuitry at the Intersection of Cognition and Disease.
+  author: >
+    Datta D, Arnsten AFT, Sukoff Rizzo SJ, Silva AC, Joyce MK, Tripathy SJ, Roberts A, Lewis DA.
+  image:
+  where: Biological Psychiatry
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1016/j.biopsych.2026.07.012
+
+- title: >
+    Intrinsic neuronal diversity as a substrate for cortical area specialization in primate vision.
+  author: >
+    Feyerabend M, Pommer S, Mestern S, Jimenez-Sosa MS, Rachel J, Sunstrum J, Preuss F, Khatibi VA, Hinkel R, Mietsch M, Vijayraghavan S, Everling S, Treue S, Arnsten AFT, Lewis DA, Tripathy SJ, Gonzalez-Burgos G, Inoue W, Neef A, Staiger JF, Martinez-Trujillo J.
+  image:
+  where: Nature Communications
+  year: 2026
+  repo:
+    name: DOI
+    url: https://doi.org/10.1038/s41467-026-73734-5
+
+- title: >
     Autism spectrum disorder trios from consanguineous populations are enriched for rare homozygous variants, identifying 32 new candidate genes.
   author: >
     Harripaul R, Rabia A, Vasli N, Mikhailov A, Rodrigues A, Pastore SF, Muhammad T, Madanagopal TT, Hashmi AN, Tran C, Stan C, Aw K, Zai CC, Azam M, Mahmood S, Heidari A, Qamar R, French L, Tripathy SJ, Agha Z, Iqbal M, Ghadami M, Santangelo SL, Bozorgmehr B, Al Ayadhi L, Sasanfar R, Maqbool S, Hassan A, Knowles JA, Ayub M, Vincent JB.
@@ -64,17 +119,6 @@
   repo:
     name: bioRxiv
     url: https://www.biorxiv.org/content/10.64898/2026.01.03.697464v1
-
-- title: >
-    Long-read proteogenomic atlas of human neuronal differentiation reveals isoform diversity informing neurodevelopmental risk mechanisms.
-  author: >
-    Xu N, Rynard KM, Radley E, Tian A, Arshad M, Long C, Li J, Luo H, Hogan E, Fafouti ME, Davie M, Naimi F, Li Y, Calarco JA, Trost B, Muffat J, Lee HO, Lipshitz HD, Smibert CA, Tripathy SJ.
-  image:
-  where: bioRxiv
-  year: 2025
-  repo:
-    name: bioRxiv
-    url: https://www.biorxiv.org/content/10.64898/2025.12.16.693263v1
 
 - title: >
     Hyperpolarization-activated cation channel mediated intrinsic plasticity changes underlie the malleability of within cell-type electrophysiological heterogeneity.
