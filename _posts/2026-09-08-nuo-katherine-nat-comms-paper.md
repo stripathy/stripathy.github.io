@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nuo Xu and Katherine Rynard's long-read proteogenomics paper published in Nature Communications!
-date: 2026-10-13
+date: 2026-09-08
 excerpt: >
   Huge congrats to Nuo Xu and Katherine Rynard on their co-first author paper in Nature Communications!
 ---
