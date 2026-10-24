@@ -1,6 +1,6 @@
 ---
 - name: Shahrzad Ghazisaeidi
-  when: July 2024 - Aug 2026
+  when: July 2024 - May 2026
   role: Post-doc
   program: Now post-doc at SickKids Research Institute
   photo: "images/people/shahrzad_headshot.jpg"
@@ -134,7 +134,7 @@
 - name: Isabel Kerrebijn
   when: Aug 2020 - Jul 2022
   role: MSc Student
-  program: Now Clinical Data Scientist at Flosonics Medical
+  program: Now PhD student at the UofT Institute of Medical Science
   photo: "images/people/isabel_headshot.jpg"
   
 - name: Sonny (Yuxiao) Chen
