@@ -2,7 +2,7 @@
 - name: Shahrzad Ghazisaeidi
   when: July 2024 - May 2026
   role: Post-doc
-  program: Now post-doc at SickKids Research Institute
+  program: Went on to a post-doc at the SickKids Research Institute
   photo: "images/people/shahrzad_headshot.jpg"
 
 - name: Keon Arbabi
@@ -96,7 +96,7 @@
   
 - name: Young Seok Seo
   role: Undergraduate Student
-  program: Now Software Developer at Amazon
+  program: Now Software Development Engineer at Amazon
   photo: "images/people/young_headshot.jfif"
   
 - name: Vishali Umaiyalan
@@ -134,7 +134,7 @@
 - name: Isabel Kerrebijn
   when: Aug 2020 - Jul 2022
   role: MSc Student
-  program: Now PhD student at the UofT Institute of Medical Science
+  program: Now PhD student at the UofT Institute of Medical Science and Statistical Genetics Consultant at Maze Therapeutics
   photo: "images/people/isabel_headshot.jpg"
   
 - name: Sonny (Yuxiao) Chen
@@ -146,7 +146,7 @@
 - name: Emma Hunter
   when: Feb 2019 - Apr 2022
   role: Mathematics Undergraduate Student
-  program: Now Data Analyst at Statistics Canada
+  program: Now Researcher at Employment and Social Development Canada
   photo: "images/people/emma_photo_cropped.jpg"
   
 - name: January Yue
@@ -164,7 +164,7 @@
 - name: Ethan Kim
   when: Jan 2021 - Sept 2021
   role: IMS MSc Student
-  program: Now Research Analyst at CAMH with Abhishek Pratap
+  program: Now Machine Learning Engineer at ArteraAI
   photo: "images/people/kim-ethan.png"
   
 - name: Ben Xu
@@ -195,6 +195,7 @@
   when: Sept 2020 - Apr 2021
   role: Bioinformatics Undergraduate Student
   program: Bioinformatics and Molecular Genetics
+  other: Now MBA candidate at IESE Business School
   photo: "images/people/kara_headshot.png"
   
 - name: Diana Nelles
